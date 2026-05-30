@@ -1,0 +1,878 @@
+customer_id,company_name,country,industry,subscription_type,signup_date
+1,Next Labs,Singapore,Education,Basic,2025-08-10
+2,Global Dynamics,Canada,Manufacturing,Enterprise,2025-12-28
+4,Vertex Networks,United States,Manufacturing,Basic,2023-08-24
+5,Cloud Systems,Singapore,Retail,Enterprise,2025-12-28
+6,Next Systems,Brazil,Technology,Basic,2025-04-21
+7,Global Networks,France,Technology,Basic,2024-10-16
+8,Prime Corporation,Netherlands,Manufacturing,Basic,2025-08-15
+9,Cloud Software,United States,Finance,Enterprise,2025-11-26
+11,Quantum Technologies,Netherlands,Retail,Enterprise,2025-01-19
+12,Vertex Software,Australia,Manufacturing,Basic,2023-12-24
+13,Data Corporation,India,Technology,Basic,2024-01-11
+14,Blue Technologies,Canada,Healthcare,Enterprise,2025-11-25
+15,Quantum Labs,India,Technology,Enterprise,2025-06-02
+16,Prime Networks,Singapore,Finance,Pro,2023-10-01
+17,Vertex Labs,Australia,Finance,Enterprise,2024-12-18
+18,Quantum Labs,Canada,Education,Pro,2023-05-20
+19,Global Systems,Canada,Healthcare,Basic,2025-04-21
+20,Blue Analytics,Australia,Healthcare,Pro,2024-09-08
+21,Data Systems,United States,Healthcare,Pro,2024-09-09
+22,Next Dynamics,Canada,Finance,Basic,2024-12-09
+23,Cloud Labs,Singapore,Education,Enterprise,2023-08-03
+24,Vertex Labs,Canada,Technology,Basic,2023-07-24
+25,Next Corporation,Canada,Education,Enterprise,2025-07-27
+26,Next Labs,United States,Healthcare,Pro,2024-07-01
+27,Blue Systems,Brazil,Finance,Enterprise,2025-01-04
+28,Vertex Analytics,Australia,Finance,Basic,2023-09-06
+29,Prime Dynamics,France,Retail,Basic,2023-07-13
+30,Data Analytics,Australia,Healthcare,Pro,2024-07-08
+31,Prime Networks,Canada,Healthcare,Pro,2025-06-01
+32,Global Networks,Netherlands,Education,Basic,2023-11-01
+33,Apex Systems,United Kingdom,Healthcare,Basic,2024-09-30
+34,Blue Software,Netherlands,Retail,Pro,2025-10-21
+35,Apex Software,Australia,Manufacturing,Enterprise,2024-03-25
+36,Cloud Dynamics,India,Education,Enterprise,2025-08-03
+37,Global Networks,India,Finance,Pro,2025-02-11
+38,Next Dynamics,Singapore,Education,Basic,2024-08-10
+39,Next Labs,France,Retail,Pro,2023-05-22
+40,Data Technologies,Netherlands,Education,Basic,2023-07-15
+42,Apex Dynamics,Canada,Retail,Enterprise,2025-09-10
+43,Apex Analytics,France,Finance,Pro,2024-08-14
+44,Cloud Labs,Australia,Technology,Pro,2024-07-02
+45,Quantum Networks,Netherlands,Retail,Enterprise,2024-07-13
+46,Vertex Labs,Brazil,Technology,Pro,2024-05-20
+47,Vertex Systems,Canada,Finance,Enterprise,2025-09-11
+48,Next Analytics,Netherlands,Technology,Enterprise,2023-11-01
+50,Data Dynamics,Germany,Education,Enterprise,2023-06-09
+51,Vertex Corporation,Netherlands,Manufacturing,Enterprise,2024-10-28
+52,Global Networks,India,Retail,Pro,2025-04-06
+53,Quantum Corporation,United Kingdom,Healthcare,Basic,2025-09-27
+54,Apex Systems,France,Retail,Basic,2025-04-07
+55,Data Analytics,India,Healthcare,Pro,2025-06-10
+57,Apex Systems,Singapore,Manufacturing,Enterprise,2024-02-10
+58,Apex Software,Canada,Healthcare,Basic,2025-10-05
+59,Data Solutions,India,Manufacturing,Basic,2025-09-12
+60,Cloud Technologies,Brazil,Finance,Enterprise,2025-10-05
+61,Cloud Software,Brazil,Retail,Pro,2025-01-12
+62,Global Labs,United Kingdom,Finance,Enterprise,2025-10-02
+63,Blue Labs,United States,Manufacturing,Enterprise,2024-02-16
+64,Global Networks,Netherlands,Retail,Pro,2025-01-01
+66,Data Systems,Brazil,Finance,Pro,2024-10-11
+67,Next Technologies,Singapore,Technology,Pro,2025-08-29
+68,Apex Corporation,India,Education,Pro,2025-05-24
+69,Quantum Labs,Netherlands,Technology,Pro,2024-08-06
+70,Next Networks,Netherlands,Finance,Enterprise,2025-07-27
+71,Prime Systems,United Kingdom,Healthcare,Basic,2024-11-07
+72,Global Dynamics,Canada,Finance,Pro,2025-10-03
+73,Cloud Corporation,Australia,Retail,Enterprise,2024-10-22
+74,Cloud Labs,Australia,Finance,Pro,2025-07-06
+75,Vertex Analytics,Brazil,Finance,Pro,2025-07-27
+77,Quantum Solutions,India,Technology,Pro,2025-01-13
+78,Cloud Technologies,Australia,Education,Enterprise,2024-12-25
+79,Apex Labs,Singapore,Retail,Enterprise,2025-09-08
+80,Apex Networks,United Kingdom,Technology,Enterprise,2025-12-23
+81,Tech Technologies,France,Technology,Pro,2024-12-05
+82,Global Corporation,France,Finance,Pro,2024-12-11
+83,Quantum Networks,Brazil,Education,Basic,2024-04-07
+84,Quantum Systems,France,Education,Pro,2024-01-29
+85,Vertex Solutions,Singapore,Education,Basic,2025-02-01
+86,Blue Systems,Germany,Healthcare,Basic,2025-08-03
+87,Apex Dynamics,India,Technology,Pro,2023-07-11
+88,Data Technologies,Germany,Manufacturing,Enterprise,2025-07-18
+89,Next Labs,United Kingdom,Education,Basic,2025-10-03
+90,Global Technologies,United States,Education,Pro,2025-08-09
+93,Vertex Systems,United Kingdom,Retail,Basic,2025-05-02
+94,Prime Analytics,United Kingdom,Finance,Basic,2024-06-01
+95,Next Technologies,Australia,Retail,Basic,2024-02-20
+97,Data Systems,Australia,Education,Enterprise,2025-05-19
+98,Prime Software,Singapore,Retail,Pro,2024-04-03
+99,Quantum Solutions,Canada,Manufacturing,Pro,2024-09-19
+101,Blue Technologies,Singapore,Healthcare,Pro,2025-01-23
+102,Prime Software,Brazil,Education,Basic,2025-09-13
+104,Tech Systems,Singapore,Technology,Basic,2024-02-26
+105,Cloud Networks,Singapore,Technology,Pro,2023-06-25
+108,Cloud Solutions,Australia,Manufacturing,Pro,2025-11-11
+109,Global Labs,Canada,Manufacturing,Basic,2024-11-07
+110,Tech Technologies,Singapore,Technology,Basic,2024-08-27
+111,Quantum Technologies,Brazil,Manufacturing,Pro,2023-09-11
+112,Tech Solutions,India,Technology,Pro,2024-08-10
+113,Cloud Networks,Canada,Finance,Pro,2025-01-23
+114,Data Systems,Canada,Healthcare,Pro,2024-12-11
+115,Prime Analytics,Australia,Finance,Enterprise,2025-12-24
+116,Cloud Systems,Brazil,Education,Basic,2025-11-20
+117,Quantum Analytics,Singapore,Healthcare,Enterprise,2024-02-04
+119,Apex Technologies,Canada,Technology,Basic,2025-10-22
+120,Data Labs,India,Retail,Pro,2025-01-04
+121,Cloud Technologies,France,Manufacturing,Basic,2023-11-26
+122,Global Corporation,Netherlands,Education,Enterprise,2025-04-03
+124,Global Corporation,Netherlands,Education,Basic,2024-02-01
+126,Blue Systems,Germany,Retail,Enterprise,2024-09-16
+127,Quantum Systems,Brazil,Technology,Pro,2024-06-15
+128,Next Analytics,Australia,Education,Pro,2023-07-08
+129,Next Corporation,United Kingdom,Retail,Basic,2024-12-11
+130,Tech Systems,United States,Healthcare,Basic,2025-07-16
+132,Vertex Labs,Australia,Manufacturing,Pro,2023-07-16
+133,Data Corporation,Brazil,Education,Basic,2023-10-17
+134,Prime Systems,France,Technology,Enterprise,2023-05-11
+135,Global Analytics,Brazil,Healthcare,Pro,2024-10-30
+136,Quantum Systems,France,Manufacturing,Pro,2023-10-14
+137,Global Solutions,Germany,Technology,Pro,2025-01-05
+138,Data Networks,Netherlands,Education,Basic,2023-07-24
+139,Prime Analytics,Canada,Technology,Enterprise,2025-04-22
+140,Cloud Solutions,United Kingdom,Retail,Pro,2024-05-18
+141,Vertex Corporation,France,Finance,Pro,2025-07-12
+142,Cloud Dynamics,Canada,Technology,Pro,2025-06-29
+143,Blue Dynamics,Brazil,Technology,Pro,2025-09-14
+145,Next Solutions,Singapore,Education,Basic,2024-06-25
+147,Data Technologies,Brazil,Technology,Basic,2025-03-22
+148,Tech Technologies,United States,Retail,Pro,2023-06-17
+149,Blue Analytics,United Kingdom,Technology,Enterprise,2024-04-09
+150,Blue Technologies,India,Finance,Pro,2023-08-30
+151,Next Dynamics,Canada,Education,Pro,2024-02-14
+152,Data Corporation,United States,Finance,Basic,2024-02-07
+153,Vertex Solutions,Australia,Technology,Pro,2025-03-04
+154,Prime Dynamics,India,Technology,Enterprise,2025-01-09
+155,Apex Solutions,India,Finance,Pro,2025-02-13
+156,Quantum Dynamics,Netherlands,Finance,Pro,2025-04-30
+157,Next Networks,Germany,Manufacturing,Enterprise,2024-11-15
+159,Global Corporation,India,Manufacturing,Enterprise,2025-02-16
+160,Tech Software,United States,Manufacturing,Pro,2024-03-16
+161,Prime Systems,Germany,Education,Basic,2025-10-28
+163,Prime Systems,United States,Finance,Enterprise,2023-11-11
+164,Blue Software,Singapore,Manufacturing,Basic,2023-08-01
+166,Blue Systems,Netherlands,Education,Basic,2024-04-04
+167,Blue Analytics,Germany,Healthcare,Pro,2024-11-29
+168,Next Labs,India,Healthcare,Pro,2023-09-11
+170,Quantum Systems,United Kingdom,Technology,Basic,2025-02-26
+171,Apex Networks,India,Retail,Basic,2023-06-25
+172,Vertex Software,Germany,Retail,Pro,2025-04-20
+173,Apex Dynamics,Canada,Technology,Basic,2025-01-07
+174,Prime Solutions,Germany,Healthcare,Basic,2025-10-19
+175,Data Technologies,India,Retail,Enterprise,2025-08-19
+177,Blue Networks,Brazil,Manufacturing,Enterprise,2024-09-12
+178,Global Systems,Singapore,Technology,Basic,2023-08-30
+179,Data Solutions,United States,Finance,Basic,2023-12-06
+180,Global Labs,India,Manufacturing,Enterprise,2025-01-03
+181,Data Dynamics,Canada,Technology,Basic,2025-01-05
+182,Global Networks,United Kingdom,Technology,Pro,2024-02-29
+183,Data Solutions,Singapore,Technology,Basic,2025-07-07
+184,Quantum Labs,Australia,Retail,Basic,2025-03-04
+185,Blue Labs,United Kingdom,Healthcare,Basic,2023-11-14
+186,Cloud Dynamics,France,Retail,Basic,2025-12-04
+187,Tech Technologies,France,Retail,Pro,2025-05-19
+188,Vertex Networks,United States,Technology,Pro,2023-10-19
+189,Blue Analytics,Australia,Finance,Enterprise,2024-04-03
+191,Next Networks,Brazil,Retail,Pro,2024-05-23
+192,Quantum Corporation,India,Retail,Pro,2023-06-10
+193,Cloud Solutions,India,Education,Basic,2025-01-06
+195,Next Technologies,United Kingdom,Technology,Basic,2025-09-15
+196,Global Dynamics,Brazil,Manufacturing,Basic,2025-08-23
+197,Global Labs,India,Finance,Basic,2024-01-18
+198,Global Software,India,Education,Basic,2025-06-22
+199,Next Analytics,Netherlands,Finance,Pro,2025-08-03
+201,Data Solutions,Germany,Education,Basic,2025-12-11
+202,Tech Corporation,Singapore,Technology,Pro,2025-07-15
+203,Quantum Technologies,United Kingdom,Healthcare,Enterprise,2023-10-18
+204,Cloud Software,United States,Technology,Basic,2025-01-01
+205,Quantum Analytics,Canada,Education,Pro,2024-02-24
+206,Data Software,Australia,Education,Basic,2024-04-03
+207,Next Dynamics,India,Finance,Basic,2025-03-12
+208,Blue Networks,India,Finance,Enterprise,2023-10-22
+209,Vertex Software,Germany,Manufacturing,Enterprise,2024-04-19
+210,Cloud Labs,France,Manufacturing,Enterprise,2025-08-02
+211,Prime Analytics,United Kingdom,Manufacturing,Basic,2024-08-29
+212,Quantum Labs,Netherlands,Technology,Basic,2024-11-12
+213,Quantum Software,Netherlands,Finance,Enterprise,2025-08-30
+214,Quantum Systems,Singapore,Finance,Pro,2024-11-10
+215,Data Technologies,India,Healthcare,Basic,2024-12-17
+216,Data Software,Singapore,Technology,Pro,2025-12-13
+217,Global Technologies,Canada,Healthcare,Pro,2025-05-31
+218,Data Solutions,United States,Retail,Pro,2024-11-16
+220,Next Corporation,Australia,Technology,Pro,2025-05-20
+221,Quantum Technologies,United Kingdom,Retail,Basic,2024-02-22
+222,Tech Dynamics,United States,Healthcare,Pro,2024-11-04
+223,Data Systems,India,Finance,Pro,2024-12-06
+224,Cloud Systems,Brazil,Technology,Pro,2024-02-14
+225,Quantum Networks,United States,Retail,Enterprise,2025-09-07
+226,Cloud Labs,United Kingdom,Technology,Basic,2024-09-12
+227,Next Technologies,Germany,Retail,Enterprise,2023-11-25
+228,Vertex Corporation,France,Manufacturing,Pro,2024-08-04
+229,Prime Technologies,Canada,Technology,Pro,2025-08-13
+230,Quantum Corporation,Singapore,Finance,Basic,2025-11-08
+231,Next Solutions,Australia,Technology,Pro,2024-06-19
+232,Quantum Networks,Germany,Technology,Basic,2024-02-24
+234,Data Dynamics,Australia,Retail,Pro,2025-01-31
+235,Prime Systems,Brazil,Retail,Basic,2024-03-18
+236,Next Labs,India,Finance,Pro,2024-07-22
+239,Data Systems,India,Education,Pro,2023-12-29
+240,Quantum Technologies,Brazil,Technology,Pro,2024-10-21
+241,Vertex Labs,Brazil,Manufacturing,Pro,2024-10-24
+242,Quantum Technologies,Singapore,Healthcare,Basic,2025-12-23
+243,Blue Solutions,Brazil,Education,Enterprise,2024-03-14
+244,Quantum Analytics,Canada,Retail,Basic,2023-09-26
+246,Blue Systems,Australia,Finance,Enterprise,2024-02-23
+247,Cloud Dynamics,India,Manufacturing,Basic,2025-04-29
+248,Data Labs,Brazil,Retail,Enterprise,2023-07-16
+249,Next Dynamics,Brazil,Retail,Basic,2023-06-05
+250,Quantum Corporation,Australia,Technology,Pro,2024-06-26
+251,Cloud Analytics,Netherlands,Education,Enterprise,2025-01-03
+252,Data Systems,Netherlands,Technology,Pro,2024-07-04
+254,Apex Networks,United States,Finance,Pro,2024-03-06
+255,Blue Analytics,Netherlands,Education,Enterprise,2025-10-26
+256,Blue Solutions,Australia,Healthcare,Enterprise,2023-11-13
+257,Global Solutions,Singapore,Healthcare,Pro,2024-12-14
+258,Tech Software,France,Healthcare,Pro,2023-08-20
+259,Apex Systems,Germany,Finance,Pro,2024-07-30
+260,Apex Software,France,Manufacturing,Pro,2025-02-26
+261,Quantum Systems,Germany,Retail,Basic,2024-07-30
+262,Blue Networks,Brazil,Healthcare,Basic,2023-09-14
+263,Vertex Analytics,Canada,Healthcare,Enterprise,2024-05-18
+264,Vertex Labs,United Kingdom,Education,Enterprise,2024-10-25
+265,Tech Analytics,Germany,Finance,Basic,2025-02-11
+266,Global Solutions,Singapore,Technology,Pro,2024-08-29
+267,Global Dynamics,India,Retail,Enterprise,2025-07-19
+269,Apex Networks,United Kingdom,Retail,Enterprise,2024-08-19
+270,Vertex Software,India,Finance,Pro,2025-08-14
+271,Data Dynamics,United States,Retail,Basic,2025-10-23
+272,Cloud Technologies,Germany,Manufacturing,Basic,2025-02-01
+273,Global Dynamics,Australia,Education,Basic,2024-03-31
+274,Tech Networks,United Kingdom,Manufacturing,Basic,2024-08-07
+275,Quantum Solutions,Germany,Healthcare,Enterprise,2025-02-01
+276,Prime Dynamics,Australia,Retail,Pro,2023-06-07
+277,Apex Dynamics,Germany,Retail,Pro,2023-11-08
+278,Vertex Labs,Netherlands,Technology,Basic,2024-11-29
+279,Vertex Software,Brazil,Manufacturing,Enterprise,2024-05-30
+280,Quantum Dynamics,France,Manufacturing,Basic,2024-08-08
+281,Apex Systems,India,Healthcare,Enterprise,2025-01-29
+282,Next Dynamics,France,Manufacturing,Enterprise,2024-12-26
+283,Prime Technologies,United Kingdom,Education,Basic,2025-12-04
+284,Tech Labs,India,Manufacturing,Basic,2025-09-19
+285,Tech Networks,France,Healthcare,Pro,2025-06-19
+286,Blue Labs,United States,Education,Enterprise,2023-11-21
+287,Quantum Technologies,India,Manufacturing,Enterprise,2025-04-27
+288,Global Corporation,Singapore,Manufacturing,Pro,2023-09-08
+289,Vertex Dynamics,United Kingdom,Manufacturing,Enterprise,2024-05-02
+290,Cloud Dynamics,Canada,Retail,Basic,2025-05-11
+291,Prime Corporation,United Kingdom,Manufacturing,Pro,2025-06-04
+292,Data Technologies,India,Finance,Enterprise,2023-10-01
+293,Prime Labs,India,Healthcare,Pro,2023-12-21
+294,Quantum Dynamics,Singapore,Technology,Pro,2024-03-17
+295,Tech Systems,Singapore,Finance,Enterprise,2024-11-11
+296,Data Labs,Brazil,Healthcare,Pro,2024-02-18
+297,Tech Analytics,United Kingdom,Finance,Pro,2024-09-15
+298,Blue Networks,United Kingdom,Healthcare,Enterprise,2024-12-15
+300,Cloud Software,United States,Technology,Pro,2023-11-27
+301,Prime Technologies,United Kingdom,Education,Basic,2025-06-28
+302,Apex Systems,United Kingdom,Education,Pro,2024-10-13
+303,Blue Labs,Australia,Retail,Pro,2023-06-01
+304,Tech Solutions,Brazil,Finance,Enterprise,2023-05-11
+305,Next Solutions,India,Education,Basic,2025-06-20
+306,Tech Solutions,Germany,Finance,Enterprise,2024-12-14
+307,Next Dynamics,United Kingdom,Technology,Pro,2025-07-25
+308,Vertex Dynamics,United Kingdom,Technology,Basic,2023-07-01
+309,Prime Dynamics,Singapore,Manufacturing,Enterprise,2025-11-05
+310,Quantum Corporation,India,Retail,Enterprise,2025-04-06
+312,Cloud Labs,United States,Finance,Basic,2024-04-22
+313,Cloud Technologies,United States,Education,Enterprise,2023-11-19
+314,Cloud Systems,India,Manufacturing,Enterprise,2023-09-30
+315,Tech Labs,France,Education,Enterprise,2025-03-09
+318,Data Corporation,France,Retail,Enterprise,2023-09-16
+319,Cloud Technologies,United States,Healthcare,Pro,2024-10-23
+320,Data Corporation,France,Education,Enterprise,2024-01-09
+321,Cloud Labs,Canada,Education,Enterprise,2023-06-09
+322,Quantum Systems,France,Technology,Basic,2025-09-16
+323,Apex Technologies,Netherlands,Finance,Pro,2025-12-13
+324,Vertex Technologies,India,Manufacturing,Pro,2024-03-28
+325,Prime Analytics,United States,Education,Pro,2023-11-14
+326,Global Networks,India,Finance,Basic,2024-06-15
+327,Tech Systems,Canada,Education,Enterprise,2025-01-03
+328,Apex Analytics,Canada,Education,Basic,2024-03-25
+329,Data Dynamics,Germany,Retail,Pro,2025-05-08
+332,Blue Systems,Canada,Technology,Basic,2025-06-01
+333,Cloud Analytics,India,Healthcare,Pro,2025-05-15
+334,Quantum Dynamics,Canada,Healthcare,Pro,2024-03-15
+335,Cloud Systems,Australia,Retail,Pro,2024-10-12
+336,Prime Labs,Singapore,Retail,Enterprise,2024-12-02
+337,Cloud Systems,United Kingdom,Manufacturing,Enterprise,2024-06-14
+338,Tech Analytics,Canada,Retail,Enterprise,2025-04-19
+339,Apex Networks,United Kingdom,Education,Pro,2024-04-27
+340,Next Solutions,United Kingdom,Retail,Pro,2024-03-25
+341,Data Labs,Singapore,Technology,Basic,2024-08-09
+342,Prime Software,United States,Manufacturing,Enterprise,2024-08-31
+343,Vertex Technologies,India,Education,Enterprise,2024-02-10
+344,Quantum Systems,Australia,Manufacturing,Enterprise,2024-08-31
+345,Global Networks,India,Manufacturing,Enterprise,2024-07-10
+346,Blue Analytics,Brazil,Education,Basic,2024-04-19
+347,Tech Analytics,Brazil,Retail,Pro,2025-12-01
+349,Next Dynamics,United States,Education,Basic,2024-03-18
+350,Vertex Labs,Australia,Finance,Basic,2025-02-09
+351,Apex Networks,Netherlands,Retail,Basic,2023-11-21
+352,Apex Networks,India,Technology,Pro,2025-05-06
+354,Vertex Corporation,United States,Technology,Enterprise,2025-09-29
+355,Quantum Dynamics,Brazil,Education,Basic,2024-09-20
+356,Apex Software,India,Technology,Basic,2025-01-14
+357,Apex Software,Brazil,Education,Enterprise,2024-06-19
+359,Global Solutions,India,Healthcare,Enterprise,2023-11-22
+361,Data Solutions,United Kingdom,Retail,Basic,2025-09-09
+362,Blue Systems,France,Education,Basic,2023-09-19
+363,Global Systems,Australia,Finance,Pro,2025-08-15
+364,Global Software,Canada,Retail,Basic,2025-12-08
+366,Quantum Corporation,United Kingdom,Retail,Basic,2024-07-03
+367,Vertex Solutions,Brazil,Retail,Enterprise,2025-07-16
+368,Apex Corporation,United Kingdom,Manufacturing,Enterprise,2024-01-03
+370,Quantum Software,Brazil,Retail,Pro,2025-01-20
+371,Quantum Technologies,France,Retail,Pro,2023-06-16
+372,Prime Networks,United Kingdom,Finance,Pro,2023-07-19
+373,Quantum Corporation,France,Manufacturing,Enterprise,2023-07-14
+375,Quantum Dynamics,India,Manufacturing,Basic,2025-02-27
+377,Next Systems,India,Education,Pro,2024-09-18
+379,Tech Corporation,Canada,Technology,Pro,2023-05-25
+380,Cloud Solutions,United States,Finance,Pro,2025-12-18
+381,Cloud Dynamics,France,Finance,Basic,2023-07-02
+382,Prime Technologies,Brazil,Technology,Pro,2024-10-20
+383,Apex Systems,Netherlands,Manufacturing,Enterprise,2025-12-06
+384,Vertex Technologies,Brazil,Retail,Basic,2025-04-29
+385,Vertex Dynamics,United States,Retail,Pro,2024-07-10
+386,Blue Software,Brazil,Technology,Basic,2024-03-11
+387,Prime Technologies,Netherlands,Retail,Basic,2023-06-04
+388,Next Corporation,Netherlands,Finance,Enterprise,2025-10-16
+389,Global Dynamics,Singapore,Finance,Enterprise,2025-01-02
+390,Data Analytics,United Kingdom,Manufacturing,Enterprise,2025-02-28
+391,Data Labs,United States,Retail,Pro,2024-03-12
+392,Vertex Dynamics,United Kingdom,Finance,Enterprise,2025-01-27
+393,Prime Solutions,India,Retail,Enterprise,2023-06-08
+394,Cloud Solutions,United Kingdom,Healthcare,Enterprise,2025-08-11
+396,Next Systems,India,Education,Basic,2023-07-03
+397,Cloud Corporation,Canada,Education,Basic,2025-02-07
+398,Blue Corporation,Brazil,Retail,Basic,2023-07-24
+399,Next Technologies,Germany,Manufacturing,Pro,2025-09-05
+401,Vertex Networks,Brazil,Manufacturing,Basic,2023-10-12
+402,Data Software,Singapore,Finance,Enterprise,2025-06-04
+403,Quantum Technologies,United States,Manufacturing,Pro,2024-11-25
+404,Blue Systems,Australia,Healthcare,Enterprise,2025-01-19
+405,Prime Solutions,Brazil,Healthcare,Enterprise,2024-05-22
+406,Vertex Networks,Singapore,Technology,Pro,2024-08-03
+407,Global Software,Brazil,Technology,Basic,2025-07-10
+408,Cloud Corporation,Brazil,Technology,Enterprise,2023-08-14
+409,Data Technologies,Germany,Manufacturing,Pro,2025-03-27
+410,Data Technologies,Brazil,Manufacturing,Enterprise,2024-10-07
+411,Blue Systems,United Kingdom,Technology,Pro,2024-06-26
+412,Next Solutions,Canada,Technology,Basic,2025-06-29
+414,Global Dynamics,Australia,Retail,Pro,2024-09-24
+415,Blue Labs,India,Technology,Pro,2023-09-24
+416,Data Corporation,United States,Manufacturing,Enterprise,2023-10-15
+417,Quantum Systems,Netherlands,Technology,Enterprise,2025-08-11
+418,Data Software,Brazil,Technology,Pro,2023-12-10
+419,Prime Systems,France,Retail,Pro,2024-02-18
+420,Blue Solutions,Singapore,Finance,Enterprise,2024-12-08
+421,Global Analytics,Australia,Education,Pro,2024-09-06
+422,Cloud Dynamics,India,Technology,Enterprise,2025-06-14
+423,Vertex Analytics,Canada,Technology,Basic,2024-07-05
+424,Quantum Labs,Brazil,Education,Basic,2025-06-23
+425,Prime Technologies,India,Finance,Pro,2023-08-16
+426,Vertex Analytics,United Kingdom,Finance,Basic,2023-06-25
+427,Quantum Dynamics,Germany,Technology,Basic,2025-11-18
+428,Quantum Solutions,Brazil,Retail,Enterprise,2024-04-19
+429,Vertex Systems,France,Manufacturing,Basic,2024-05-17
+430,Prime Systems,Germany,Manufacturing,Enterprise,2023-10-08
+431,Apex Software,India,Finance,Enterprise,2023-09-09
+432,Global Systems,France,Education,Basic,2024-07-14
+433,Global Software,Singapore,Retail,Pro,2024-01-28
+434,Quantum Dynamics,Netherlands,Finance,Enterprise,2025-01-25
+435,Quantum Software,India,Retail,Basic,2025-05-14
+436,Tech Software,Germany,Finance,Enterprise,2024-12-13
+437,Blue Dynamics,India,Finance,Enterprise,2023-05-27
+438,Next Networks,Singapore,Retail,Pro,2024-02-28
+439,Prime Networks,Brazil,Technology,Basic,2024-03-03
+440,Quantum Systems,France,Finance,Enterprise,2024-12-27
+441,Global Dynamics,Canada,Manufacturing,Basic,2024-02-15
+442,Tech Corporation,United States,Education,Enterprise,2025-05-21
+443,Blue Technologies,United States,Education,Pro,2023-12-08
+444,Vertex Corporation,Singapore,Manufacturing,Basic,2023-10-11
+445,Next Labs,Germany,Education,Enterprise,2024-01-18
+446,Prime Analytics,Singapore,Education,Enterprise,2024-03-19
+447,Data Labs,India,Education,Basic,2025-10-19
+448,Global Analytics,Brazil,Finance,Pro,2024-10-30
+449,Cloud Analytics,Netherlands,Education,Enterprise,2024-10-29
+450,Cloud Networks,India,Technology,Basic,2023-09-15
+451,Apex Technologies,Canada,Healthcare,Pro,2023-09-13
+452,Global Solutions,Germany,Education,Pro,2025-03-27
+453,Blue Networks,Singapore,Technology,Basic,2023-05-19
+454,Next Systems,Brazil,Manufacturing,Pro,2025-10-23
+456,Blue Software,Netherlands,Manufacturing,Basic,2025-11-03
+457,Vertex Dynamics,Australia,Finance,Enterprise,2023-11-13
+458,Blue Software,India,Retail,Pro,2023-05-13
+459,Quantum Solutions,Brazil,Finance,Pro,2024-04-23
+461,Prime Technologies,United Kingdom,Finance,Basic,2024-05-19
+462,Next Systems,Germany,Retail,Pro,2025-07-21
+464,Quantum Analytics,Australia,Technology,Basic,2024-02-15
+465,Tech Analytics,Netherlands,Education,Basic,2024-06-03
+466,Cloud Corporation,United States,Education,Basic,2024-12-06
+467,Tech Analytics,France,Finance,Enterprise,2023-05-12
+468,Blue Solutions,France,Technology,Basic,2024-07-25
+469,Apex Networks,Singapore,Finance,Basic,2023-11-13
+470,Blue Analytics,Netherlands,Finance,Enterprise,2025-10-10
+471,Vertex Dynamics,United Kingdom,Manufacturing,Enterprise,2025-02-10
+472,Next Networks,Netherlands,Education,Basic,2024-01-12
+473,Global Labs,Australia,Finance,Basic,2024-04-25
+474,Tech Technologies,Brazil,Education,Enterprise,2024-08-07
+475,Blue Analytics,Netherlands,Technology,Basic,2024-07-15
+476,Apex Solutions,Brazil,Education,Basic,2024-08-02
+477,Data Networks,United Kingdom,Education,Enterprise,2025-06-08
+478,Tech Labs,Brazil,Retail,Pro,2025-12-26
+479,Tech Corporation,Australia,Finance,Pro,2025-12-27
+480,Blue Software,Netherlands,Manufacturing,Enterprise,2025-05-20
+481,Quantum Systems,Australia,Finance,Pro,2024-12-11
+482,Apex Technologies,Canada,Healthcare,Enterprise,2024-08-05
+483,Vertex Labs,France,Finance,Basic,2024-03-14
+484,Tech Corporation,Canada,Education,Basic,2024-12-16
+485,Blue Technologies,India,Retail,Pro,2024-04-21
+487,Prime Dynamics,Brazil,Retail,Enterprise,2024-12-23
+488,Next Dynamics,Australia,Finance,Pro,2024-10-26
+489,Vertex Corporation,Singapore,Finance,Pro,2024-06-30
+490,Vertex Corporation,Singapore,Healthcare,Pro,2025-08-01
+491,Quantum Software,Australia,Manufacturing,Basic,2024-03-08
+492,Data Technologies,Singapore,Manufacturing,Basic,2024-05-14
+493,Data Technologies,Brazil,Retail,Pro,2025-05-03
+495,Tech Systems,United Kingdom,Retail,Enterprise,2023-07-31
+496,Blue Systems,Canada,Healthcare,Basic,2023-12-25
+497,Next Systems,Netherlands,Technology,Enterprise,2025-11-08
+499,Prime Solutions,United Kingdom,Manufacturing,Pro,2024-07-13
+500,Apex Solutions,Germany,Manufacturing,Enterprise,2025-07-17
+501,Prime Technologies,United States,Education,Enterprise,2023-10-12
+502,Vertex Technologies,Netherlands,Finance,Enterprise,2025-03-13
+503,Tech Software,Germany,Manufacturing,Basic,2024-02-03
+504,Cloud Systems,France,Retail,Pro,2024-06-15
+505,Blue Labs,Netherlands,Finance,Enterprise,2024-03-06
+506,Tech Systems,Canada,Education,Pro,2025-08-19
+507,Vertex Software,India,Healthcare,Basic,2025-07-06
+508,Quantum Technologies,Singapore,Retail,Enterprise,2024-02-20
+509,Tech Dynamics,United Kingdom,Retail,Enterprise,2024-09-15
+510,Data Corporation,Canada,Education,Pro,2025-11-03
+511,Next Systems,Brazil,Healthcare,Enterprise,2023-11-07
+512,Quantum Dynamics,Singapore,Retail,Enterprise,2025-11-12
+513,Apex Technologies,India,Retail,Enterprise,2024-11-14
+514,Apex Solutions,Singapore,Technology,Pro,2024-06-11
+515,Data Labs,Germany,Manufacturing,Enterprise,2024-10-22
+516,Global Software,Australia,Healthcare,Enterprise,2024-07-29
+517,Vertex Solutions,France,Finance,Pro,2025-03-07
+518,Data Labs,India,Technology,Enterprise,2024-05-10
+519,Cloud Networks,India,Healthcare,Basic,2025-04-13
+520,Quantum Dynamics,United Kingdom,Manufacturing,Enterprise,2024-04-07
+521,Global Networks,Germany,Finance,Enterprise,2025-10-08
+522,Global Dynamics,Germany,Finance,Basic,2025-05-02
+524,Data Networks,Netherlands,Technology,Enterprise,2023-12-16
+525,Tech Networks,India,Education,Pro,2024-12-15
+526,Apex Dynamics,Singapore,Finance,Enterprise,2025-08-08
+527,Prime Labs,Germany,Education,Basic,2024-08-07
+530,Cloud Networks,Canada,Manufacturing,Enterprise,2025-08-26
+531,Apex Software,United States,Technology,Enterprise,2025-08-29
+532,Global Labs,Netherlands,Technology,Pro,2023-05-14
+533,Next Dynamics,United Kingdom,Education,Pro,2024-10-09
+534,Global Dynamics,Singapore,Education,Pro,2024-05-19
+536,Blue Software,India,Retail,Pro,2024-11-06
+537,Apex Analytics,Netherlands,Finance,Enterprise,2024-11-01
+538,Global Systems,France,Finance,Enterprise,2024-09-21
+539,Blue Labs,Germany,Finance,Enterprise,2025-02-10
+540,Cloud Networks,United States,Finance,Pro,2023-08-17
+541,Apex Analytics,Brazil,Education,Enterprise,2023-07-01
+542,Next Networks,France,Healthcare,Enterprise,2023-06-18
+544,Cloud Solutions,Germany,Healthcare,Pro,2023-10-08
+545,Data Networks,India,Healthcare,Pro,2024-05-08
+546,Next Corporation,Brazil,Healthcare,Pro,2023-11-10
+547,Tech Labs,Canada,Healthcare,Enterprise,2023-06-04
+548,Quantum Technologies,Netherlands,Education,Enterprise,2025-02-18
+549,Vertex Analytics,France,Healthcare,Pro,2023-12-19
+550,Vertex Networks,Singapore,Technology,Pro,2025-02-25
+551,Quantum Dynamics,Singapore,Manufacturing,Basic,2024-09-02
+552,Cloud Software,Australia,Manufacturing,Enterprise,2024-06-29
+553,Quantum Labs,Canada,Technology,Basic,2024-04-10
+554,Next Technologies,India,Healthcare,Enterprise,2023-06-14
+555,Prime Dynamics,Netherlands,Manufacturing,Pro,2025-09-22
+556,Prime Networks,India,Manufacturing,Enterprise,2024-08-14
+558,Tech Analytics,Germany,Manufacturing,Pro,2023-09-03
+559,Data Technologies,United Kingdom,Retail,Basic,2024-08-14
+560,Data Systems,Singapore,Education,Basic,2024-01-09
+561,Tech Labs,Brazil,Technology,Basic,2025-02-25
+562,Prime Analytics,Canada,Manufacturing,Pro,2025-02-09
+564,Apex Analytics,United Kingdom,Education,Basic,2023-07-04
+565,Tech Solutions,India,Healthcare,Pro,2025-10-28
+566,Apex Corporation,France,Education,Pro,2024-04-25
+567,Cloud Corporation,United Kingdom,Education,Enterprise,2025-11-23
+568,Apex Labs,Brazil,Manufacturing,Enterprise,2025-07-09
+569,Vertex Dynamics,India,Retail,Enterprise,2025-08-05
+570,Global Systems,Singapore,Healthcare,Pro,2025-03-10
+571,Blue Dynamics,United Kingdom,Healthcare,Basic,2024-06-03
+572,Tech Corporation,United Kingdom,Healthcare,Pro,2025-07-06
+573,Apex Corporation,United States,Manufacturing,Pro,2025-01-25
+574,Apex Dynamics,United States,Retail,Pro,2025-12-18
+575,Quantum Technologies,United States,Education,Pro,2025-01-28
+576,Global Labs,Brazil,Retail,Pro,2025-11-08
+577,Global Analytics,Australia,Retail,Basic,2025-01-23
+578,Prime Systems,Australia,Manufacturing,Basic,2024-08-03
+580,Vertex Dynamics,Australia,Finance,Basic,2023-07-09
+581,Cloud Analytics,France,Technology,Enterprise,2024-12-07
+582,Apex Networks,France,Manufacturing,Enterprise,2024-01-30
+583,Apex Technologies,India,Technology,Basic,2023-07-11
+585,Prime Dynamics,United Kingdom,Manufacturing,Pro,2024-03-21
+586,Tech Technologies,Canada,Finance,Basic,2024-11-21
+587,Apex Technologies,India,Retail,Pro,2023-12-24
+590,Blue Systems,Brazil,Retail,Basic,2025-03-30
+591,Global Dynamics,Australia,Technology,Basic,2024-09-14
+592,Global Labs,Singapore,Finance,Enterprise,2025-06-20
+593,Tech Technologies,Singapore,Manufacturing,Basic,2025-05-09
+594,Vertex Technologies,Singapore,Retail,Enterprise,2025-09-01
+595,Prime Software,United Kingdom,Manufacturing,Enterprise,2024-01-04
+596,Tech Corporation,Brazil,Technology,Pro,2025-04-28
+597,Apex Dynamics,Germany,Healthcare,Basic,2024-07-05
+598,Global Systems,Germany,Manufacturing,Pro,2024-06-29
+600,Data Labs,Germany,Technology,Basic,2024-02-16
+601,Quantum Networks,Netherlands,Finance,Pro,2025-02-05
+602,Data Technologies,United Kingdom,Retail,Basic,2024-06-24
+603,Quantum Software,United States,Technology,Pro,2024-02-20
+604,Cloud Corporation,Canada,Finance,Pro,2024-10-16
+605,Global Software,Brazil,Manufacturing,Pro,2025-08-19
+606,Apex Technologies,United States,Manufacturing,Pro,2024-11-25
+607,Next Analytics,France,Technology,Pro,2025-05-08
+608,Apex Corporation,France,Education,Enterprise,2024-11-18
+609,Apex Technologies,Netherlands,Finance,Enterprise,2025-07-01
+610,Next Software,Singapore,Healthcare,Enterprise,2024-12-23
+611,Vertex Analytics,Canada,Education,Basic,2024-11-06
+613,Apex Solutions,Brazil,Retail,Enterprise,2023-06-26
+614,Cloud Solutions,Netherlands,Healthcare,Enterprise,2023-06-19
+615,Global Software,Canada,Manufacturing,Enterprise,2024-11-30
+616,Blue Technologies,Brazil,Manufacturing,Pro,2023-05-25
+617,Vertex Analytics,Netherlands,Healthcare,Pro,2025-01-27
+618,Blue Software,Canada,Technology,Enterprise,2023-06-02
+619,Data Solutions,United Kingdom,Finance,Basic,2023-10-28
+620,Global Systems,Singapore,Finance,Basic,2023-10-14
+621,Tech Labs,Singapore,Education,Enterprise,2025-02-05
+622,Quantum Dynamics,United States,Healthcare,Basic,2023-06-14
+626,Tech Dynamics,Brazil,Technology,Enterprise,2025-10-10
+628,Data Systems,Germany,Education,Pro,2025-03-29
+629,Global Technologies,Brazil,Manufacturing,Basic,2025-09-06
+630,Quantum Analytics,Brazil,Manufacturing,Enterprise,2024-05-23
+631,Blue Systems,Netherlands,Healthcare,Enterprise,2023-09-14
+632,Apex Labs,Canada,Finance,Basic,2025-12-20
+633,Vertex Labs,Brazil,Healthcare,Enterprise,2024-02-07
+634,Cloud Corporation,Netherlands,Retail,Pro,2023-08-10
+635,Next Corporation,India,Healthcare,Pro,2023-08-02
+636,Blue Software,Netherlands,Finance,Enterprise,2025-09-08
+637,Vertex Technologies,Australia,Education,Enterprise,2025-01-03
+638,Prime Software,Singapore,Retail,Pro,2025-02-19
+640,Vertex Analytics,France,Technology,Pro,2025-12-18
+641,Global Technologies,India,Technology,Enterprise,2024-08-09
+642,Prime Corporation,Brazil,Education,Enterprise,2024-09-08
+644,Next Analytics,United Kingdom,Healthcare,Pro,2023-12-19
+645,Quantum Technologies,Germany,Healthcare,Pro,2025-12-31
+646,Data Labs,Netherlands,Finance,Enterprise,2023-08-09
+647,Data Software,Singapore,Finance,Pro,2025-05-30
+649,Tech Labs,Canada,Technology,Pro,2024-03-08
+650,Next Labs,Australia,Technology,Basic,2024-05-25
+652,Vertex Solutions,India,Education,Enterprise,2025-09-24
+653,Cloud Software,Brazil,Manufacturing,Basic,2025-12-20
+655,Quantum Corporation,Canada,Finance,Pro,2024-03-05
+656,Prime Labs,United Kingdom,Finance,Pro,2024-07-18
+657,Data Networks,Netherlands,Manufacturing,Basic,2025-04-22
+659,Vertex Labs,United Kingdom,Finance,Pro,2025-09-21
+660,Vertex Technologies,Singapore,Retail,Enterprise,2023-12-24
+662,Vertex Technologies,Germany,Technology,Pro,2024-10-14
+663,Blue Software,Netherlands,Technology,Basic,2024-03-16
+664,Blue Labs,India,Healthcare,Basic,2023-08-07
+665,Next Software,Netherlands,Manufacturing,Basic,2025-08-10
+667,Quantum Analytics,Singapore,Technology,Basic,2025-01-05
+669,Data Solutions,Germany,Education,Basic,2024-11-01
+670,Prime Solutions,India,Manufacturing,Basic,2023-11-18
+671,Prime Networks,Singapore,Technology,Pro,2025-03-22
+672,Global Corporation,Germany,Finance,Enterprise,2023-08-28
+673,Vertex Dynamics,Brazil,Retail,Enterprise,2024-01-01
+674,Cloud Solutions,Australia,Education,Enterprise,2025-06-30
+675,Vertex Solutions,France,Finance,Basic,2025-08-25
+676,Prime Technologies,Netherlands,Healthcare,Basic,2025-07-01
+677,Apex Solutions,Canada,Retail,Enterprise,2023-09-28
+678,Prime Software,Canada,Technology,Pro,2025-04-27
+679,Blue Technologies,Australia,Education,Enterprise,2025-06-16
+680,Data Software,Singapore,Education,Enterprise,2025-12-31
+681,Data Analytics,Germany,Education,Pro,2023-12-14
+682,Vertex Solutions,United States,Finance,Enterprise,2023-11-15
+683,Prime Software,Singapore,Retail,Enterprise,2025-09-10
+684,Cloud Solutions,India,Manufacturing,Pro,2025-06-21
+685,Next Dynamics,Germany,Education,Pro,2025-03-12
+687,Prime Technologies,United Kingdom,Healthcare,Pro,2024-06-21
+688,Cloud Systems,Australia,Education,Enterprise,2024-05-08
+689,Quantum Technologies,Australia,Finance,Enterprise,2024-06-18
+690,Cloud Labs,France,Education,Pro,2025-10-24
+691,Apex Corporation,United Kingdom,Finance,Enterprise,2023-10-23
+692,Cloud Corporation,Germany,Finance,Pro,2025-10-26
+693,Vertex Analytics,Australia,Finance,Enterprise,2025-01-31
+694,Quantum Analytics,India,Technology,Enterprise,2024-11-15
+695,Vertex Systems,United Kingdom,Healthcare,Basic,2025-03-24
+696,Tech Software,Australia,Retail,Pro,2025-10-18
+698,Cloud Analytics,United States,Education,Enterprise,2025-06-20
+700,Tech Software,Canada,Manufacturing,Pro,2024-04-10
+701,Cloud Corporation,Netherlands,Retail,Enterprise,2023-06-12
+702,Next Analytics,Australia,Retail,Pro,2024-07-04
+703,Cloud Analytics,Germany,Finance,Basic,2025-07-13
+704,Blue Solutions,France,Retail,Basic,2024-07-03
+705,Global Technologies,Canada,Finance,Pro,2023-11-04
+706,Quantum Networks,India,Retail,Basic,2023-10-30
+707,Blue Labs,United States,Education,Enterprise,2023-10-04
+708,Blue Software,Australia,Education,Enterprise,2023-06-01
+709,Quantum Corporation,Brazil,Manufacturing,Enterprise,2024-02-27
+710,Tech Corporation,Canada,Retail,Pro,2024-02-26
+711,Tech Technologies,Brazil,Education,Pro,2023-07-10
+712,Tech Corporation,Australia,Education,Enterprise,2023-07-21
+714,Prime Dynamics,Singapore,Finance,Pro,2023-07-07
+715,Prime Solutions,Brazil,Finance,Pro,2023-07-26
+716,Apex Systems,Brazil,Technology,Basic,2023-12-07
+717,Quantum Corporation,United Kingdom,Retail,Pro,2023-07-02
+718,Next Networks,United States,Finance,Pro,2024-12-23
+719,Quantum Technologies,Singapore,Technology,Pro,2024-11-02
+720,Next Analytics,Canada,Technology,Basic,2023-09-27
+721,Apex Software,Canada,Education,Enterprise,2024-07-11
+722,Blue Corporation,Netherlands,Finance,Pro,2025-03-04
+724,Quantum Analytics,United Kingdom,Finance,Basic,2025-11-11
+726,Apex Dynamics,United Kingdom,Technology,Basic,2025-12-05
+727,Global Solutions,Netherlands,Healthcare,Basic,2023-10-22
+728,Apex Networks,Singapore,Education,Basic,2023-09-05
+729,Quantum Networks,Germany,Finance,Enterprise,2025-04-12
+731,Quantum Solutions,Germany,Education,Pro,2025-09-15
+732,Quantum Corporation,Germany,Technology,Basic,2024-09-07
+733,Cloud Solutions,India,Technology,Basic,2025-07-02
+734,Tech Dynamics,India,Technology,Basic,2023-12-24
+735,Data Labs,United Kingdom,Finance,Enterprise,2024-06-28
+736,Prime Corporation,United Kingdom,Retail,Enterprise,2025-12-27
+737,Quantum Software,United States,Technology,Pro,2023-10-27
+738,Next Software,Australia,Technology,Pro,2024-06-30
+739,Vertex Systems,France,Retail,Basic,2024-09-20
+740,Data Dynamics,India,Education,Pro,2025-05-29
+741,Vertex Technologies,Germany,Education,Basic,2025-11-12
+742,Data Corporation,Canada,Retail,Enterprise,2025-01-13
+743,Quantum Dynamics,Australia,Education,Pro,2023-11-14
+744,Prime Corporation,Netherlands,Education,Pro,2023-08-19
+745,Cloud Networks,Brazil,Manufacturing,Enterprise,2024-01-30
+746,Apex Networks,United Kingdom,Education,Basic,2025-03-17
+747,Prime Technologies,United States,Technology,Basic,2025-10-30
+748,Apex Systems,Germany,Education,Pro,2023-09-06
+749,Blue Solutions,India,Healthcare,Enterprise,2025-02-19
+750,Global Solutions,Germany,Manufacturing,Pro,2023-11-10
+751,Prime Systems,France,Healthcare,Enterprise,2024-01-01
+752,Vertex Software,United States,Technology,Enterprise,2023-08-08
+754,Quantum Solutions,United Kingdom,Finance,Pro,2025-02-27
+755,Next Networks,Singapore,Technology,Enterprise,2025-04-24
+757,Vertex Software,Singapore,Retail,Enterprise,2024-12-15
+758,Tech Corporation,France,Education,Enterprise,2023-10-21
+759,Next Corporation,Brazil,Technology,Basic,2025-12-05
+760,Quantum Software,India,Technology,Basic,2024-05-23
+761,Prime Solutions,India,Retail,Enterprise,2023-09-17
+762,Vertex Analytics,Netherlands,Education,Pro,2025-01-18
+763,Cloud Systems,France,Manufacturing,Pro,2023-09-09
+764,Tech Dynamics,Australia,Technology,Pro,2023-07-29
+765,Global Software,Singapore,Healthcare,Basic,2023-08-19
+766,Vertex Dynamics,United Kingdom,Technology,Pro,2025-10-14
+767,Tech Technologies,Canada,Retail,Enterprise,2025-07-20
+768,Tech Networks,Brazil,Finance,Basic,2024-07-07
+769,Next Networks,Brazil,Healthcare,Pro,2024-11-21
+770,Cloud Systems,Brazil,Manufacturing,Basic,2023-10-09
+771,Global Solutions,Singapore,Retail,Enterprise,2025-08-16
+772,Vertex Systems,United States,Healthcare,Basic,2025-05-07
+773,Quantum Systems,India,Retail,Basic,2025-02-01
+774,Data Corporation,France,Technology,Enterprise,2023-07-04
+776,Prime Dynamics,Brazil,Healthcare,Pro,2023-08-11
+777,Data Dynamics,United Kingdom,Finance,Pro,2023-07-20
+780,Next Dynamics,United Kingdom,Manufacturing,Pro,2025-03-31
+781,Quantum Technologies,United Kingdom,Technology,Pro,2024-07-17
+782,Quantum Software,Brazil,Retail,Basic,2025-01-01
+783,Cloud Solutions,Singapore,Manufacturing,Basic,2024-09-27
+784,Data Labs,United States,Technology,Pro,2024-02-04
+785,Blue Analytics,Netherlands,Education,Enterprise,2024-01-22
+786,Apex Software,France,Healthcare,Basic,2025-02-18
+787,Vertex Systems,Singapore,Education,Basic,2025-04-07
+788,Data Networks,Canada,Retail,Pro,2024-08-16
+789,Apex Networks,Germany,Finance,Basic,2023-05-16
+790,Quantum Dynamics,India,Retail,Basic,2024-08-10
+792,Data Networks,Canada,Healthcare,Pro,2023-09-29
+793,Apex Analytics,France,Healthcare,Enterprise,2023-05-09
+794,Quantum Analytics,Brazil,Technology,Pro,2023-05-27
+795,Data Software,Brazil,Manufacturing,Basic,2024-02-15
+797,Blue Technologies,Netherlands,Finance,Enterprise,2025-05-29
+798,Cloud Networks,Australia,Technology,Pro,2025-06-07
+799,Global Labs,Australia,Education,Pro,2025-07-19
+801,Data Networks,Canada,Education,Enterprise,2025-01-25
+802,Apex Software,Brazil,Technology,Pro,2024-09-14
+803,Cloud Dynamics,Australia,Technology,Enterprise,2023-12-16
+804,Data Labs,India,Retail,Enterprise,2025-03-13
+805,Tech Systems,Germany,Finance,Enterprise,2023-12-29
+806,Tech Analytics,United Kingdom,Retail,Enterprise,2024-12-16
+807,Prime Labs,Netherlands,Education,Pro,2025-07-22
+808,Global Technologies,India,Healthcare,Enterprise,2024-01-02
+810,Tech Corporation,Australia,Finance,Pro,2024-05-08
+811,Tech Software,Brazil,Technology,Basic,2025-02-15
+812,Vertex Software,Canada,Healthcare,Basic,2025-07-25
+813,Global Labs,Netherlands,Retail,Enterprise,2024-12-25
+814,Next Labs,Australia,Retail,Pro,2025-12-05
+815,Vertex Technologies,United Kingdom,Retail,Basic,2024-07-21
+816,Global Corporation,Australia,Healthcare,Pro,2024-05-06
+817,Cloud Dynamics,United Kingdom,Finance,Basic,2023-06-10
+818,Data Solutions,United Kingdom,Manufacturing,Pro,2025-04-17
+820,Blue Networks,Netherlands,Retail,Enterprise,2024-05-11
+821,Cloud Networks,Brazil,Retail,Enterprise,2024-01-27
+822,Apex Labs,India,Finance,Basic,2025-11-10
+823,Blue Solutions,Netherlands,Retail,Enterprise,2023-12-26
+824,Global Corporation,France,Retail,Enterprise,2025-12-15
+825,Quantum Software,United States,Technology,Enterprise,2024-06-20
+826,Apex Software,Canada,Education,Pro,2025-09-16
+828,Vertex Systems,Brazil,Education,Basic,2023-11-17
+829,Global Networks,Canada,Manufacturing,Enterprise,2025-06-15
+832,Apex Software,Australia,Healthcare,Pro,2023-11-19
+833,Prime Analytics,United States,Manufacturing,Enterprise,2024-10-23
+834,Prime Dynamics,United States,Manufacturing,Pro,2024-10-21
+835,Quantum Analytics,Netherlands,Technology,Enterprise,2025-11-10
+836,Prime Solutions,France,Retail,Basic,2024-04-03
+837,Cloud Corporation,Canada,Healthcare,Pro,2025-09-11
+839,Data Analytics,Netherlands,Manufacturing,Basic,2025-08-30
+840,Apex Software,United Kingdom,Healthcare,Enterprise,2025-06-16
+841,Global Networks,United Kingdom,Education,Basic,2025-07-26
+842,Next Systems,United Kingdom,Education,Basic,2024-07-30
+843,Apex Labs,Australia,Finance,Enterprise,2025-07-13
+844,Apex Analytics,Germany,Education,Enterprise,2023-05-14
+845,Next Solutions,France,Technology,Basic,2023-11-22
+846,Cloud Networks,Australia,Retail,Pro,2025-05-10
+847,Apex Corporation,Germany,Retail,Enterprise,2023-07-26
+848,Blue Networks,France,Finance,Enterprise,2024-03-03
+849,Blue Solutions,France,Retail,Pro,2023-12-16
+850,Next Corporation,United States,Technology,Enterprise,2024-07-11
+852,Next Dynamics,France,Technology,Pro,2024-10-19
+853,Quantum Labs,Singapore,Manufacturing,Enterprise,2024-06-22
+854,Global Technologies,Brazil,Healthcare,Enterprise,2025-02-04
+856,Tech Systems,United States,Retail,Basic,2023-07-24
+857,Vertex Systems,Singapore,Healthcare,Basic,2025-11-10
+858,Prime Dynamics,Germany,Technology,Basic,2024-05-17
+859,Quantum Systems,United States,Education,Enterprise,2024-08-23
+860,Global Systems,Canada,Technology,Enterprise,2025-09-29
+861,Cloud Labs,Netherlands,Finance,Basic,2023-06-24
+862,Cloud Dynamics,France,Retail,Enterprise,2025-02-11
+863,Data Networks,France,Retail,Enterprise,2025-02-16
+864,Next Dynamics,United Kingdom,Technology,Pro,2025-09-28
+865,Tech Labs,Australia,Healthcare,Basic,2025-04-18
+866,Prime Dynamics,United Kingdom,Retail,Basic,2023-12-26
+867,Apex Technologies,Netherlands,Retail,Basic,2024-01-23
+868,Apex Systems,United Kingdom,Education,Pro,2025-08-16
+870,Data Solutions,Canada,Technology,Enterprise,2025-01-16
+871,Prime Networks,United States,Retail,Basic,2025-08-06
+872,Tech Solutions,Australia,Healthcare,Basic,2023-07-24
+873,Next Labs,Netherlands,Technology,Enterprise,2023-08-31
+874,Apex Networks,Australia,Retail,Enterprise,2023-07-23
+876,Apex Systems,Netherlands,Education,Pro,2025-08-12
+877,Next Dynamics,Australia,Technology,Enterprise,2024-06-02
+878,Data Software,Brazil,Healthcare,Basic,2024-04-04
+879,Apex Dynamics,Germany,Finance,Enterprise,2025-03-16
+880,Tech Labs,Germany,Healthcare,Enterprise,2023-12-19
+881,Blue Systems,India,Retail,Basic,2025-07-06
+883,Tech Technologies,Singapore,Retail,Basic,2025-09-27
+884,Vertex Dynamics,Singapore,Education,Pro,2023-07-21
+885,Tech Solutions,India,Technology,Pro,2024-01-19
+886,Tech Labs,Canada,Finance,Enterprise,2024-08-01
+887,Vertex Networks,Brazil,Finance,Enterprise,2024-09-24
+888,Quantum Technologies,Canada,Technology,Enterprise,2024-12-13
+889,Cloud Networks,United States,Retail,Enterprise,2024-12-30
+890,Tech Technologies,United Kingdom,Technology,Basic,2023-10-25
+891,Tech Dynamics,Canada,Retail,Enterprise,2024-08-20
+892,Cloud Systems,Canada,Technology,Pro,2024-05-29
+893,Quantum Technologies,Canada,Finance,Pro,2024-06-09
+894,Next Labs,India,Technology,Enterprise,2025-11-27
+895,Quantum Corporation,United Kingdom,Healthcare,Basic,2024-10-23
+898,Next Corporation,United Kingdom,Retail,Basic,2023-10-25
+899,Quantum Solutions,United Kingdom,Technology,Enterprise,2024-10-22
+900,Quantum Labs,United Kingdom,Technology,Pro,2023-12-30
+901,Data Solutions,United States,Finance,Basic,2025-06-02
+902,Quantum Dynamics,Australia,Manufacturing,Pro,2025-11-18
+903,Cloud Technologies,United Kingdom,Manufacturing,Pro,2024-07-25
+904,Vertex Networks,Australia,Finance,Basic,2024-08-03
+905,Quantum Solutions,Netherlands,Finance,Enterprise,2025-06-23
+906,Apex Systems,France,Healthcare,Pro,2023-09-07
+907,Tech Corporation,Germany,Finance,Basic,2025-04-17
+908,Vertex Systems,Netherlands,Healthcare,Enterprise,2024-08-06
+909,Vertex Technologies,Singapore,Manufacturing,Enterprise,2023-07-26
+910,Global Dynamics,United States,Finance,Basic,2025-04-22
+911,Cloud Networks,Singapore,Finance,Basic,2025-01-25
+912,Tech Solutions,India,Healthcare,Basic,2025-10-07
+914,Tech Systems,United States,Education,Basic,2024-12-07
+916,Data Technologies,Singapore,Education,Enterprise,2024-11-27
+917,Next Labs,Germany,Manufacturing,Enterprise,2023-05-25
+919,Data Technologies,Australia,Finance,Pro,2025-04-05
+920,Global Systems,Singapore,Education,Pro,2024-04-12
+921,Tech Labs,United Kingdom,Finance,Enterprise,2025-09-23
+922,Apex Analytics,Australia,Healthcare,Basic,2025-02-17
+923,Apex Technologies,India,Healthcare,Basic,2024-01-30
+924,Next Analytics,United States,Manufacturing,Enterprise,2024-03-20
+925,Tech Dynamics,United Kingdom,Technology,Pro,2025-01-11
+926,Apex Labs,United Kingdom,Healthcare,Basic,2025-05-02
+928,Vertex Technologies,Canada,Retail,Enterprise,2025-09-23
+929,Apex Technologies,Netherlands,Retail,Pro,2025-03-25
+931,Global Software,Australia,Education,Basic,2025-09-08
+932,Quantum Analytics,Netherlands,Technology,Pro,2024-04-18
+933,Tech Solutions,Singapore,Manufacturing,Enterprise,2025-02-06
+934,Tech Labs,Brazil,Retail,Pro,2023-12-16
+935,Data Networks,Singapore,Finance,Basic,2024-09-27
+936,Vertex Solutions,Australia,Finance,Basic,2024-10-08
+937,Next Dynamics,Germany,Manufacturing,Basic,2024-08-04
+938,Tech Networks,France,Finance,Enterprise,2025-12-27
+939,Apex Solutions,Singapore,Retail,Basic,2023-10-27
+940,Blue Analytics,India,Manufacturing,Pro,2025-12-13
+941,Tech Systems,Australia,Manufacturing,Pro,2023-06-22
+942,Vertex Solutions,France,Retail,Pro,2023-08-11
+943,Quantum Corporation,Netherlands,Finance,Enterprise,2024-04-06
+944,Data Software,United States,Education,Enterprise,2025-03-04
+945,Next Solutions,Canada,Retail,Pro,2024-08-30
+946,Apex Solutions,India,Healthcare,Basic,2025-08-11
+947,Vertex Systems,Brazil,Manufacturing,Basic,2025-01-04
+948,Cloud Software,Germany,Education,Basic,2024-05-08
+949,Apex Technologies,Germany,Healthcare,Pro,2023-11-01
+950,Prime Corporation,Australia,Healthcare,Basic,2023-11-05
+951,Data Software,India,Retail,Pro,2024-04-07
+952,Vertex Corporation,Canada,Retail,Enterprise,2024-09-24
+953,Vertex Corporation,France,Retail,Enterprise,2024-05-14
+954,Next Systems,Germany,Retail,Basic,2024-03-30
+955,Data Labs,United Kingdom,Healthcare,Basic,2023-09-25
+956,Data Analytics,France,Technology,Enterprise,2024-10-15
+957,Cloud Networks,United Kingdom,Finance,Enterprise,2025-09-20
+958,Tech Dynamics,Australia,Manufacturing,Enterprise,2025-05-31
+959,Cloud Networks,India,Retail,Pro,2024-03-17
+960,Tech Dynamics,Germany,Technology,Basic,2025-01-07
+961,Global Corporation,India,Retail,Enterprise,2025-03-26
+962,Next Software,Singapore,Education,Enterprise,2023-11-12
+964,Quantum Analytics,France,Finance,Pro,2023-11-29
+965,Global Networks,India,Healthcare,Basic,2024-03-13
+966,Cloud Software,France,Retail,Basic,2025-12-14
+967,Quantum Analytics,Brazil,Healthcare,Basic,2023-10-10
+968,Cloud Analytics,United Kingdom,Finance,Basic,2025-11-08
+969,Tech Software,Netherlands,Finance,Pro,2025-06-26
+971,Tech Software,India,Finance,Pro,2023-05-22
+972,Apex Corporation,United Kingdom,Education,Pro,2024-11-30
+973,Data Solutions,Australia,Retail,Basic,2023-11-13
+974,Apex Software,United Kingdom,Technology,Enterprise,2025-02-20
+975,Vertex Corporation,India,Manufacturing,Enterprise,2025-02-09
+976,Prime Networks,France,Education,Enterprise,2025-09-23
+977,Cloud Networks,India,Manufacturing,Basic,2025-11-09
+978,Apex Solutions,United Kingdom,Manufacturing,Enterprise,2025-05-01
+979,Data Dynamics,United States,Retail,Enterprise,2023-07-18
+980,Global Networks,India,Technology,Pro,2025-03-12
+981,Tech Technologies,Netherlands,Education,Basic,2023-06-17
+982,Prime Technologies,United States,Technology,Enterprise,2024-10-01
+983,Apex Systems,Brazil,Retail,Basic,2023-12-24
+986,Blue Software,Australia,Healthcare,Basic,2024-12-16
+987,Prime Software,India,Healthcare,Pro,2024-06-29
+988,Vertex Systems,Germany,Manufacturing,Pro,2025-02-22
+989,Blue Networks,France,Finance,Enterprise,2024-12-12
+990,Blue Labs,United Kingdom,Education,Enterprise,2024-02-01
+991,Data Analytics,Germany,Healthcare,Pro,2024-06-11
+992,Vertex Software,Canada,Education,Pro,2025-10-14
+993,Data Solutions,Australia,Manufacturing,Pro,2023-10-11
+994,Blue Analytics,Brazil,Retail,Enterprise,2024-02-04
+995,Quantum Analytics,Germany,Finance,Pro,2024-08-11
+996,Prime Corporation,Singapore,Technology,Pro,2024-09-21
+998,Apex Technologies,United States,Technology,Basic,2025-10-31
+999,Prime Dynamics,Singapore,Technology,Enterprise,2024-08-28
+1000,Prime Labs,United Kingdom,Retail,Enterprise,2025-07-20

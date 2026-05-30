@@ -1,0 +1,2001 @@
+churn_id,customer_id,risk_score,risk_level,churn_probability,churn_reason,predicted_churn
+1,290,38,Low,0.38,High Pricing,No
+2,397,81,High,0.81,Missing Features,Yes
+3,979,50,Medium,0.5,Low Product Usage,Yes
+4,822,66,Medium,0.66,Competitor Switch,No
+5,694,51,Medium,0.51,Missing Features,Yes
+6,67,56,Medium,0.56,Missing Features,Yes
+7,482,97,High,0.97,High Pricing,Yes
+8,199,86,High,0.86,Poor Support,No
+9,384,27,Low,0.27,Low Product Usage,No
+10,295,16,Low,0.16,Poor Support,No
+11,122,50,Medium,0.5,Competitor Switch,Yes
+12,959,10,Low,0.1,Poor Support,Yes
+13,926,1,Low,0.01,High Pricing,No
+14,549,59,Medium,0.59,Missing Features,No
+15,617,76,High,0.76,High Pricing,No
+16,124,30,Low,0.3,Poor Support,No
+17,308,24,Low,0.24,Low Product Usage,No
+18,478,49,Medium,0.49,High Pricing,Yes
+19,789,75,High,0.75,Missing Features,Yes
+20,935,43,Medium,0.43,Competitor Switch,Yes
+21,345,53,Medium,0.53,Missing Features,Yes
+22,213,90,High,0.9,Poor Support,Yes
+23,167,26,Low,0.26,Low Product Usage,Yes
+24,147,32,Low,0.32,Competitor Switch,No
+25,535,84,High,0.84,Poor Support,Yes
+26,284,76,High,0.76,Missing Features,No
+27,582,56,Medium,0.56,Missing Features,No
+28,376,79,High,0.79,Missing Features,No
+29,137,93,High,0.93,Competitor Switch,Yes
+30,514,95,High,0.95,Competitor Switch,Yes
+31,585,55,Medium,0.55,High Pricing,Yes
+32,31,64,Medium,0.64,Low Product Usage,No
+33,159,13,Low,0.13,Low Product Usage,Yes
+34,567,32,Low,0.32,Competitor Switch,Yes
+35,259,7,Low,0.07,Low Product Usage,Yes
+36,454,94,High,0.94,Competitor Switch,No
+37,707,37,Low,0.37,Poor Support,No
+38,412,72,High,0.72,Competitor Switch,Yes
+39,847,85,High,0.85,Competitor Switch,Yes
+40,859,65,Medium,0.65,Competitor Switch,No
+41,803,24,Low,0.24,High Pricing,No
+42,960,62,Medium,0.62,Competitor Switch,No
+43,440,1,Low,0.01,Low Product Usage,No
+44,636,48,Medium,0.48,Missing Features,No
+45,215,55,Medium,0.55,High Pricing,Yes
+46,976,38,Low,0.38,Missing Features,No
+47,370,40,Medium,0.4,High Pricing,No
+48,273,22,Low,0.22,Competitor Switch,No
+49,61,30,Low,0.3,High Pricing,No
+50,940,14,Low,0.14,Missing Features,No
+51,916,23,Low,0.23,Competitor Switch,Yes
+52,212,91,High,0.91,Low Product Usage,Yes
+53,838,11,Low,0.11,Poor Support,Yes
+54,523,27,Low,0.27,Poor Support,Yes
+55,250,16,Low,0.16,Low Product Usage,Yes
+56,582,2,Low,0.02,Competitor Switch,Yes
+57,725,28,Low,0.28,Poor Support,Yes
+58,765,38,Low,0.38,Low Product Usage,No
+59,681,100,High,1.0,Low Product Usage,No
+60,799,59,Medium,0.59,Competitor Switch,Yes
+61,859,47,Medium,0.47,Low Product Usage,Yes
+62,563,94,High,0.94,Competitor Switch,No
+63,121,50,Medium,0.5,High Pricing,No
+64,519,41,Medium,0.41,Competitor Switch,Yes
+65,767,74,High,0.74,High Pricing,Yes
+66,675,52,Medium,0.52,Low Product Usage,No
+67,343,57,Medium,0.57,Competitor Switch,No
+68,873,86,High,0.86,Competitor Switch,No
+69,274,48,Medium,0.48,Competitor Switch,No
+70,777,50,Medium,0.5,Competitor Switch,No
+71,1000,62,Medium,0.62,Competitor Switch,Yes
+72,371,72,High,0.72,Low Product Usage,Yes
+73,904,2,Low,0.02,Missing Features,No
+74,166,83,High,0.83,Poor Support,No
+75,949,40,Medium,0.4,Low Product Usage,No
+76,102,24,Low,0.24,High Pricing,No
+77,138,47,Medium,0.47,High Pricing,No
+78,856,74,High,0.74,Missing Features,No
+79,258,68,Medium,0.68,Poor Support,No
+80,481,19,Low,0.19,Competitor Switch,No
+81,354,39,Low,0.39,Low Product Usage,Yes
+82,515,22,Low,0.22,High Pricing,No
+83,619,10,Low,0.1,Missing Features,No
+84,190,89,High,0.89,High Pricing,No
+85,975,78,High,0.78,Poor Support,No
+86,172,87,High,0.87,Poor Support,No
+87,536,88,High,0.88,Low Product Usage,Yes
+88,599,8,Low,0.08,Competitor Switch,No
+89,331,18,Low,0.18,Low Product Usage,No
+90,369,56,Medium,0.56,Poor Support,Yes
+91,494,32,Low,0.32,Poor Support,Yes
+92,886,33,Low,0.33,Poor Support,Yes
+93,191,25,Low,0.25,High Pricing,Yes
+94,783,73,High,0.73,Poor Support,Yes
+95,742,3,Low,0.03,High Pricing,Yes
+96,46,15,Low,0.15,Missing Features,No
+97,41,86,High,0.86,High Pricing,No
+98,266,46,Medium,0.46,Low Product Usage,No
+99,628,44,Medium,0.44,Missing Features,No
+100,678,41,Medium,0.41,Low Product Usage,Yes
+101,242,90,High,0.9,Low Product Usage,No
+102,54,20,Low,0.2,Missing Features,No
+103,469,14,Low,0.14,Low Product Usage,Yes
+104,200,36,Low,0.36,Poor Support,No
+105,607,78,High,0.78,Competitor Switch,No
+106,996,45,Medium,0.45,Competitor Switch,Yes
+107,170,41,Medium,0.41,High Pricing,No
+108,241,74,High,0.74,Missing Features,Yes
+109,173,84,High,0.84,Missing Features,No
+110,891,92,High,0.92,High Pricing,Yes
+111,691,43,Medium,0.43,Low Product Usage,No
+112,303,55,Medium,0.55,Missing Features,No
+113,726,32,Low,0.32,Poor Support,No
+114,324,91,High,0.91,Missing Features,No
+115,193,86,High,0.86,Low Product Usage,Yes
+116,364,60,Medium,0.6,Missing Features,Yes
+117,140,42,Medium,0.42,Competitor Switch,Yes
+118,215,89,High,0.89,High Pricing,Yes
+119,944,100,High,1.0,Competitor Switch,Yes
+120,406,34,Low,0.34,Competitor Switch,No
+121,422,82,High,0.82,Competitor Switch,No
+122,764,91,High,0.91,Poor Support,Yes
+123,210,51,Medium,0.51,Missing Features,No
+124,346,18,Low,0.18,Competitor Switch,No
+125,956,15,Low,0.15,Competitor Switch,No
+126,925,25,Low,0.25,Competitor Switch,No
+127,990,73,High,0.73,Missing Features,Yes
+128,804,12,Low,0.12,High Pricing,Yes
+129,906,84,High,0.84,Competitor Switch,Yes
+130,452,78,High,0.78,High Pricing,No
+131,325,93,High,0.93,Poor Support,Yes
+132,121,25,Low,0.25,Missing Features,No
+133,383,21,Low,0.21,High Pricing,Yes
+134,6,16,Low,0.16,Low Product Usage,Yes
+135,38,74,High,0.74,High Pricing,No
+136,79,46,Medium,0.46,Competitor Switch,Yes
+137,265,40,Medium,0.4,Low Product Usage,No
+138,318,89,High,0.89,Poor Support,Yes
+139,241,5,Low,0.05,High Pricing,No
+140,903,44,Medium,0.44,Competitor Switch,No
+141,21,28,Low,0.28,Poor Support,Yes
+142,224,87,High,0.87,Low Product Usage,Yes
+143,534,67,Medium,0.67,Poor Support,No
+144,28,25,Low,0.25,Poor Support,No
+145,668,17,Low,0.17,Low Product Usage,Yes
+146,18,87,High,0.87,Missing Features,Yes
+147,732,36,Low,0.36,High Pricing,Yes
+148,537,7,Low,0.07,Competitor Switch,No
+149,796,41,Medium,0.41,Missing Features,No
+150,611,9,Low,0.09,Low Product Usage,Yes
+151,210,8,Low,0.08,Poor Support,No
+152,175,68,Medium,0.68,Low Product Usage,Yes
+153,446,97,High,0.97,Low Product Usage,Yes
+154,820,63,Medium,0.63,Low Product Usage,No
+155,319,2,Low,0.02,Missing Features,Yes
+156,67,95,High,0.95,Poor Support,Yes
+157,187,66,Medium,0.66,High Pricing,No
+158,494,4,Low,0.04,Poor Support,No
+159,929,35,Low,0.35,High Pricing,No
+160,977,26,Low,0.26,High Pricing,Yes
+161,507,80,High,0.8,High Pricing,No
+162,96,62,Medium,0.62,High Pricing,Yes
+163,433,31,Low,0.31,Low Product Usage,Yes
+164,510,17,Low,0.17,Competitor Switch,No
+165,298,81,High,0.81,Poor Support,No
+166,553,56,Medium,0.56,Low Product Usage,No
+167,817,33,Low,0.33,Competitor Switch,No
+168,459,9,Low,0.09,Competitor Switch,Yes
+169,24,57,Medium,0.57,Low Product Usage,No
+170,260,29,Low,0.29,Low Product Usage,No
+171,144,40,Medium,0.4,Missing Features,Yes
+172,911,37,Low,0.37,Competitor Switch,Yes
+173,121,24,Low,0.24,Competitor Switch,No
+174,620,55,Medium,0.55,High Pricing,No
+175,426,88,High,0.88,Poor Support,Yes
+176,505,99,High,0.99,Missing Features,Yes
+177,792,78,High,0.78,Low Product Usage,Yes
+178,696,60,Medium,0.6,High Pricing,Yes
+179,61,9,Low,0.09,Low Product Usage,Yes
+180,511,83,High,0.83,High Pricing,Yes
+181,702,33,Low,0.33,Poor Support,Yes
+182,842,73,High,0.73,High Pricing,No
+183,498,21,Low,0.21,Competitor Switch,No
+184,529,65,Medium,0.65,Poor Support,No
+185,489,58,Medium,0.58,Competitor Switch,Yes
+186,391,28,Low,0.28,Missing Features,Yes
+187,792,17,Low,0.17,Missing Features,Yes
+188,739,29,Low,0.29,Competitor Switch,Yes
+189,609,89,High,0.89,Missing Features,Yes
+190,953,19,Low,0.19,Competitor Switch,No
+191,6,77,High,0.77,Poor Support,No
+192,372,41,Medium,0.41,Competitor Switch,Yes
+193,707,37,Low,0.37,Poor Support,Yes
+194,532,95,High,0.95,High Pricing,No
+195,656,87,High,0.87,Poor Support,Yes
+196,89,5,Low,0.05,Competitor Switch,No
+197,216,77,High,0.77,High Pricing,Yes
+198,883,1,Low,0.01,Low Product Usage,No
+199,258,25,Low,0.25,Competitor Switch,No
+200,185,28,Low,0.28,Competitor Switch,No
+201,462,38,Low,0.38,Low Product Usage,Yes
+202,622,21,Low,0.21,Missing Features,No
+203,886,76,High,0.76,High Pricing,No
+204,307,19,Low,0.19,Poor Support,Yes
+205,580,81,High,0.81,High Pricing,No
+206,444,81,High,0.81,Poor Support,Yes
+207,463,57,Medium,0.57,Competitor Switch,Yes
+208,889,41,Medium,0.41,Poor Support,No
+209,569,66,Medium,0.66,High Pricing,No
+210,475,70,High,0.7,Low Product Usage,No
+211,759,14,Low,0.14,High Pricing,Yes
+212,720,25,Low,0.25,Missing Features,No
+213,44,28,Low,0.28,High Pricing,Yes
+214,212,6,Low,0.06,Missing Features,Yes
+215,520,8,Low,0.08,Competitor Switch,Yes
+216,221,82,High,0.82,Poor Support,No
+217,28,66,Medium,0.66,Competitor Switch,No
+218,268,58,Medium,0.58,Low Product Usage,No
+219,302,52,Medium,0.52,Low Product Usage,No
+220,361,16,Low,0.16,Competitor Switch,Yes
+221,990,71,High,0.71,Low Product Usage,No
+222,939,84,High,0.84,High Pricing,Yes
+223,332,38,Low,0.38,Low Product Usage,No
+224,151,82,High,0.82,Poor Support,Yes
+225,337,24,Low,0.24,Low Product Usage,No
+226,65,46,Medium,0.46,Competitor Switch,No
+227,757,99,High,0.99,High Pricing,No
+228,774,38,Low,0.38,Competitor Switch,Yes
+229,476,43,Medium,0.43,High Pricing,No
+230,488,41,Medium,0.41,Competitor Switch,Yes
+231,734,41,Medium,0.41,High Pricing,No
+232,295,14,Low,0.14,Competitor Switch,No
+233,242,73,High,0.73,Competitor Switch,No
+234,157,91,High,0.91,Missing Features,No
+235,849,75,High,0.75,Competitor Switch,No
+236,252,53,Medium,0.53,High Pricing,Yes
+237,346,82,High,0.82,Poor Support,Yes
+238,570,58,Medium,0.58,Low Product Usage,Yes
+239,907,24,Low,0.24,Missing Features,No
+240,134,95,High,0.95,Low Product Usage,No
+241,924,82,High,0.82,Poor Support,Yes
+242,83,2,Low,0.02,Missing Features,Yes
+243,151,24,Low,0.24,Poor Support,No
+244,896,12,Low,0.12,Low Product Usage,No
+245,493,46,Medium,0.46,Competitor Switch,No
+246,941,93,High,0.93,Poor Support,No
+247,97,83,High,0.83,Poor Support,Yes
+248,821,63,Medium,0.63,Competitor Switch,No
+249,709,6,Low,0.06,Low Product Usage,Yes
+250,251,37,Low,0.37,Poor Support,No
+251,804,40,Medium,0.4,Poor Support,Yes
+252,903,24,Low,0.24,Missing Features,No
+253,835,6,Low,0.06,Missing Features,Yes
+254,543,29,Low,0.29,Competitor Switch,Yes
+255,437,23,Low,0.23,Missing Features,Yes
+256,591,16,Low,0.16,High Pricing,Yes
+257,605,47,Medium,0.47,Poor Support,No
+258,542,86,High,0.86,Poor Support,Yes
+259,824,22,Low,0.22,Missing Features,No
+260,293,5,Low,0.05,High Pricing,No
+261,963,73,High,0.73,Competitor Switch,Yes
+262,605,72,High,0.72,Low Product Usage,Yes
+263,311,59,Medium,0.59,Competitor Switch,No
+264,217,26,Low,0.26,Missing Features,Yes
+265,441,70,High,0.7,Competitor Switch,Yes
+266,135,85,High,0.85,Low Product Usage,No
+267,435,52,Medium,0.52,Competitor Switch,Yes
+268,965,7,Low,0.07,Competitor Switch,Yes
+269,132,40,Medium,0.4,Low Product Usage,No
+270,133,56,Medium,0.56,Competitor Switch,No
+271,87,78,High,0.78,Low Product Usage,Yes
+272,504,56,Medium,0.56,High Pricing,No
+273,426,27,Low,0.27,Missing Features,No
+274,827,65,Medium,0.65,Poor Support,No
+275,742,94,High,0.94,High Pricing,No
+276,461,43,Medium,0.43,Missing Features,Yes
+277,920,43,Medium,0.43,Competitor Switch,Yes
+278,195,74,High,0.74,Competitor Switch,Yes
+279,128,49,Medium,0.49,Competitor Switch,Yes
+280,789,27,Low,0.27,Poor Support,No
+281,257,58,Medium,0.58,Poor Support,No
+282,968,32,Low,0.32,Low Product Usage,No
+283,75,70,High,0.7,Missing Features,Yes
+284,108,61,Medium,0.61,High Pricing,No
+285,673,60,Medium,0.6,Poor Support,Yes
+286,758,100,High,1.0,Poor Support,No
+287,159,82,High,0.82,Low Product Usage,No
+288,124,54,Medium,0.54,Competitor Switch,Yes
+289,58,6,Low,0.06,Low Product Usage,Yes
+290,271,39,Low,0.39,Missing Features,No
+291,80,12,Low,0.12,Missing Features,Yes
+292,747,49,Medium,0.49,Missing Features,No
+293,544,22,Low,0.22,Missing Features,No
+294,168,97,High,0.97,Missing Features,No
+295,464,79,High,0.79,Poor Support,No
+296,861,33,Low,0.33,Missing Features,No
+297,627,3,Low,0.03,Poor Support,No
+298,252,11,Low,0.11,Missing Features,No
+299,667,80,High,0.8,Low Product Usage,No
+300,681,12,Low,0.12,Poor Support,No
+301,414,35,Low,0.35,High Pricing,Yes
+302,608,90,High,0.9,Poor Support,Yes
+303,260,70,High,0.7,Poor Support,Yes
+304,931,16,Low,0.16,Competitor Switch,Yes
+305,182,35,Low,0.35,Competitor Switch,No
+306,321,75,High,0.75,High Pricing,Yes
+307,447,83,High,0.83,Poor Support,No
+308,871,64,Medium,0.64,Missing Features,Yes
+309,913,81,High,0.81,Missing Features,Yes
+310,622,12,Low,0.12,Poor Support,Yes
+311,556,4,Low,0.04,High Pricing,No
+312,808,28,Low,0.28,High Pricing,No
+313,982,24,Low,0.24,High Pricing,Yes
+314,378,81,High,0.81,Poor Support,Yes
+315,622,75,High,0.75,High Pricing,No
+316,135,20,Low,0.2,Poor Support,Yes
+317,961,25,Low,0.25,Poor Support,No
+318,840,82,High,0.82,Poor Support,Yes
+319,425,38,Low,0.38,High Pricing,Yes
+320,854,11,Low,0.11,Poor Support,No
+321,219,6,Low,0.06,Poor Support,Yes
+322,667,16,Low,0.16,Missing Features,No
+323,656,62,Medium,0.62,Poor Support,Yes
+324,845,15,Low,0.15,Poor Support,No
+325,337,78,High,0.78,High Pricing,Yes
+326,190,13,Low,0.13,Competitor Switch,No
+327,700,82,High,0.82,Low Product Usage,No
+328,494,74,High,0.74,High Pricing,Yes
+329,207,90,High,0.9,High Pricing,Yes
+330,892,84,High,0.84,Missing Features,Yes
+331,339,60,Medium,0.6,Competitor Switch,No
+332,403,28,Low,0.28,Poor Support,No
+333,789,40,Medium,0.4,Missing Features,Yes
+334,367,33,Low,0.33,Poor Support,No
+335,712,15,Low,0.15,Low Product Usage,Yes
+336,178,41,Medium,0.41,Low Product Usage,No
+337,747,39,Low,0.39,Competitor Switch,Yes
+338,69,15,Low,0.15,Competitor Switch,Yes
+339,573,92,High,0.92,Missing Features,No
+340,584,2,Low,0.02,Poor Support,No
+341,538,19,Low,0.19,Missing Features,Yes
+342,596,5,Low,0.05,Low Product Usage,Yes
+343,480,6,Low,0.06,Missing Features,Yes
+344,649,85,High,0.85,Missing Features,Yes
+345,115,70,High,0.7,Poor Support,No
+346,386,81,High,0.81,Missing Features,Yes
+347,439,23,Low,0.23,Poor Support,Yes
+348,329,15,Low,0.15,Competitor Switch,Yes
+349,731,4,Low,0.04,Low Product Usage,Yes
+350,406,23,Low,0.23,Low Product Usage,Yes
+351,662,70,High,0.7,Poor Support,Yes
+352,534,88,High,0.88,Low Product Usage,Yes
+353,669,92,High,0.92,Competitor Switch,No
+354,118,21,Low,0.21,Low Product Usage,Yes
+355,837,84,High,0.84,High Pricing,Yes
+356,711,12,Low,0.12,Poor Support,Yes
+357,425,13,Low,0.13,Competitor Switch,No
+358,212,73,High,0.73,Low Product Usage,No
+359,715,22,Low,0.22,Missing Features,Yes
+360,613,22,Low,0.22,Competitor Switch,No
+361,429,87,High,0.87,High Pricing,Yes
+362,734,96,High,0.96,High Pricing,No
+363,594,58,Medium,0.58,Missing Features,Yes
+364,103,15,Low,0.15,Competitor Switch,No
+365,91,95,High,0.95,Missing Features,No
+366,368,95,High,0.95,Poor Support,Yes
+367,409,23,Low,0.23,Low Product Usage,Yes
+368,954,43,Medium,0.43,Poor Support,No
+369,158,33,Low,0.33,Poor Support,No
+370,716,57,Medium,0.57,Poor Support,Yes
+371,904,22,Low,0.22,Poor Support,Yes
+372,119,79,High,0.79,Missing Features,No
+373,338,11,Low,0.11,Competitor Switch,No
+374,666,27,Low,0.27,High Pricing,No
+375,629,87,High,0.87,High Pricing,No
+376,720,26,Low,0.26,High Pricing,No
+377,462,100,High,1.0,High Pricing,Yes
+378,44,86,High,0.86,Low Product Usage,Yes
+379,144,58,Medium,0.58,Low Product Usage,No
+380,106,1,Low,0.01,Missing Features,No
+381,442,65,Medium,0.65,Low Product Usage,Yes
+382,538,71,High,0.71,Low Product Usage,No
+383,718,63,Medium,0.63,Competitor Switch,Yes
+384,410,30,Low,0.3,Competitor Switch,No
+385,281,56,Medium,0.56,Competitor Switch,No
+386,816,7,Low,0.07,High Pricing,Yes
+387,748,4,Low,0.04,Competitor Switch,No
+388,341,35,Low,0.35,Low Product Usage,Yes
+389,413,44,Medium,0.44,Missing Features,Yes
+390,892,42,Medium,0.42,Low Product Usage,Yes
+391,880,11,Low,0.11,Competitor Switch,Yes
+392,752,57,Medium,0.57,Poor Support,No
+393,295,83,High,0.83,Missing Features,No
+394,655,32,Low,0.32,Poor Support,Yes
+395,451,73,High,0.73,High Pricing,Yes
+396,393,89,High,0.89,Missing Features,Yes
+397,966,17,Low,0.17,High Pricing,No
+398,913,14,Low,0.14,High Pricing,Yes
+399,519,9,Low,0.09,Poor Support,No
+400,614,4,Low,0.04,Competitor Switch,Yes
+401,614,50,Medium,0.5,Missing Features,Yes
+402,246,10,Low,0.1,Missing Features,Yes
+403,870,47,Medium,0.47,High Pricing,Yes
+404,729,39,Low,0.39,High Pricing,No
+405,393,41,Medium,0.41,High Pricing,Yes
+406,18,87,High,0.87,Competitor Switch,No
+407,391,61,Medium,0.61,High Pricing,Yes
+408,68,59,Medium,0.59,High Pricing,No
+409,812,35,Low,0.35,Missing Features,No
+410,419,57,Medium,0.57,Missing Features,No
+411,136,66,Medium,0.66,Missing Features,No
+412,627,25,Low,0.25,High Pricing,Yes
+413,155,33,Low,0.33,High Pricing,No
+414,261,95,High,0.95,Missing Features,Yes
+415,247,40,Medium,0.4,Low Product Usage,Yes
+416,979,32,Low,0.32,Missing Features,Yes
+417,345,74,High,0.74,High Pricing,Yes
+418,757,13,Low,0.13,Low Product Usage,No
+419,970,90,High,0.9,Competitor Switch,No
+420,865,89,High,0.89,Competitor Switch,No
+421,394,57,Medium,0.57,Competitor Switch,Yes
+422,191,75,High,0.75,Low Product Usage,Yes
+423,94,35,Low,0.35,Missing Features,No
+424,572,95,High,0.95,High Pricing,Yes
+425,792,62,Medium,0.62,High Pricing,Yes
+426,53,13,Low,0.13,Competitor Switch,No
+427,609,40,Medium,0.4,Low Product Usage,Yes
+428,422,62,Medium,0.62,Competitor Switch,Yes
+429,401,17,Low,0.17,Poor Support,Yes
+430,221,72,High,0.72,High Pricing,No
+431,716,91,High,0.91,Low Product Usage,Yes
+432,673,40,Medium,0.4,Competitor Switch,Yes
+433,321,57,Medium,0.57,Competitor Switch,Yes
+434,808,42,Medium,0.42,Poor Support,Yes
+435,458,8,Low,0.08,Missing Features,No
+436,277,82,High,0.82,Missing Features,Yes
+437,8,69,Medium,0.69,Low Product Usage,No
+438,476,31,Low,0.31,Low Product Usage,No
+439,451,23,Low,0.23,Competitor Switch,Yes
+440,200,80,High,0.8,Missing Features,Yes
+441,477,28,Low,0.28,Low Product Usage,No
+442,275,88,High,0.88,High Pricing,Yes
+443,916,90,High,0.9,Low Product Usage,Yes
+444,709,79,High,0.79,Poor Support,No
+445,699,86,High,0.86,Competitor Switch,Yes
+446,790,92,High,0.92,Missing Features,No
+447,961,99,High,0.99,Competitor Switch,No
+448,419,69,Medium,0.69,Low Product Usage,No
+449,374,18,Low,0.18,Competitor Switch,Yes
+450,64,75,High,0.75,Missing Features,Yes
+451,180,41,Medium,0.41,Competitor Switch,No
+452,892,17,Low,0.17,Poor Support,Yes
+453,518,71,High,0.71,Missing Features,No
+454,580,85,High,0.85,Competitor Switch,No
+455,537,22,Low,0.22,Poor Support,No
+456,317,32,Low,0.32,Low Product Usage,Yes
+457,207,31,Low,0.31,Low Product Usage,Yes
+458,635,50,Medium,0.5,Poor Support,Yes
+459,248,14,Low,0.14,Competitor Switch,No
+460,834,25,Low,0.25,Poor Support,No
+461,526,100,High,1.0,High Pricing,Yes
+462,872,34,Low,0.34,Poor Support,Yes
+463,50,48,Medium,0.48,Competitor Switch,Yes
+464,156,33,Low,0.33,Low Product Usage,Yes
+465,785,54,Medium,0.54,Poor Support,No
+466,451,22,Low,0.22,Missing Features,No
+467,866,24,Low,0.24,Poor Support,Yes
+468,45,47,Medium,0.47,Competitor Switch,Yes
+469,551,37,Low,0.37,Low Product Usage,No
+470,463,47,Medium,0.47,Low Product Usage,Yes
+471,860,95,High,0.95,Low Product Usage,Yes
+472,747,35,Low,0.35,Low Product Usage,Yes
+473,115,11,Low,0.11,High Pricing,Yes
+474,982,60,Medium,0.6,Low Product Usage,No
+475,682,74,High,0.74,Low Product Usage,No
+476,369,73,High,0.73,Low Product Usage,No
+477,771,83,High,0.83,Low Product Usage,Yes
+478,866,98,High,0.98,High Pricing,No
+479,138,23,Low,0.23,Low Product Usage,No
+480,968,31,Low,0.31,Missing Features,Yes
+481,755,47,Medium,0.47,High Pricing,Yes
+482,850,80,High,0.8,High Pricing,Yes
+483,91,53,Medium,0.53,Low Product Usage,No
+484,959,83,High,0.83,Missing Features,Yes
+485,969,33,Low,0.33,Competitor Switch,No
+486,734,23,Low,0.23,Missing Features,No
+487,392,23,Low,0.23,Low Product Usage,No
+488,354,94,High,0.94,Poor Support,No
+489,614,28,Low,0.28,Missing Features,No
+490,218,48,Medium,0.48,Missing Features,Yes
+491,209,47,Medium,0.47,Poor Support,Yes
+492,809,8,Low,0.08,Competitor Switch,No
+493,567,16,Low,0.16,Low Product Usage,No
+494,234,84,High,0.84,High Pricing,Yes
+495,949,36,Low,0.36,Competitor Switch,Yes
+496,697,88,High,0.88,Poor Support,Yes
+497,391,44,Medium,0.44,Competitor Switch,Yes
+498,674,34,Low,0.34,Low Product Usage,Yes
+499,965,10,Low,0.1,High Pricing,Yes
+500,236,18,Low,0.18,Low Product Usage,No
+501,381,39,Low,0.39,Poor Support,No
+502,50,69,Medium,0.69,Competitor Switch,Yes
+503,269,40,Medium,0.4,Poor Support,Yes
+504,275,82,High,0.82,High Pricing,No
+505,610,81,High,0.81,Competitor Switch,Yes
+506,225,55,Medium,0.55,Competitor Switch,No
+507,133,15,Low,0.15,High Pricing,No
+508,888,77,High,0.77,Competitor Switch,Yes
+509,965,96,High,0.96,Competitor Switch,No
+510,492,78,High,0.78,High Pricing,Yes
+511,842,9,Low,0.09,Missing Features,No
+512,676,77,High,0.77,High Pricing,No
+513,791,44,Medium,0.44,High Pricing,No
+514,396,10,Low,0.1,Low Product Usage,No
+515,917,11,Low,0.11,Low Product Usage,Yes
+516,76,14,Low,0.14,High Pricing,Yes
+517,54,41,Medium,0.41,High Pricing,Yes
+518,417,94,High,0.94,Poor Support,Yes
+519,773,54,Medium,0.54,High Pricing,Yes
+520,881,33,Low,0.33,High Pricing,Yes
+521,42,62,Medium,0.62,Poor Support,No
+522,264,66,Medium,0.66,Poor Support,Yes
+523,361,15,Low,0.15,Poor Support,Yes
+524,844,71,High,0.71,Competitor Switch,Yes
+525,36,34,Low,0.34,Missing Features,No
+526,230,19,Low,0.19,Low Product Usage,Yes
+527,163,60,Medium,0.6,Missing Features,No
+528,541,98,High,0.98,Competitor Switch,No
+529,746,65,Medium,0.65,Low Product Usage,Yes
+530,613,5,Low,0.05,High Pricing,Yes
+531,341,37,Low,0.37,High Pricing,No
+532,42,35,Low,0.35,Poor Support,No
+533,26,51,Medium,0.51,High Pricing,No
+534,164,29,Low,0.29,Competitor Switch,Yes
+535,198,32,Low,0.32,Missing Features,No
+536,385,9,Low,0.09,Low Product Usage,No
+537,940,22,Low,0.22,Missing Features,No
+538,176,95,High,0.95,Missing Features,No
+539,627,59,Medium,0.59,Low Product Usage,No
+540,279,90,High,0.9,Competitor Switch,Yes
+541,440,97,High,0.97,Competitor Switch,Yes
+542,476,76,High,0.76,Poor Support,Yes
+543,205,44,Medium,0.44,Low Product Usage,No
+544,958,62,Medium,0.62,Missing Features,No
+545,492,85,High,0.85,Missing Features,Yes
+546,155,50,Medium,0.5,Competitor Switch,No
+547,167,3,Low,0.03,Competitor Switch,No
+548,771,93,High,0.93,High Pricing,Yes
+549,23,48,Medium,0.48,Missing Features,Yes
+550,825,78,High,0.78,Low Product Usage,Yes
+551,881,41,Medium,0.41,High Pricing,No
+552,752,30,Low,0.3,Missing Features,Yes
+553,767,31,Low,0.31,Low Product Usage,No
+554,187,95,High,0.95,High Pricing,Yes
+555,318,68,Medium,0.68,Low Product Usage,No
+556,950,80,High,0.8,Competitor Switch,No
+557,292,92,High,0.92,High Pricing,No
+558,271,28,Low,0.28,Low Product Usage,No
+559,831,87,High,0.87,Competitor Switch,No
+560,666,3,Low,0.03,Competitor Switch,No
+561,570,11,Low,0.11,Poor Support,Yes
+562,636,8,Low,0.08,High Pricing,No
+563,442,17,Low,0.17,Competitor Switch,Yes
+564,681,85,High,0.85,Poor Support,No
+565,853,40,Medium,0.4,Low Product Usage,Yes
+566,232,68,Medium,0.68,High Pricing,Yes
+567,950,36,Low,0.36,Low Product Usage,No
+568,554,8,Low,0.08,Missing Features,No
+569,730,78,High,0.78,Poor Support,No
+570,975,52,Medium,0.52,Low Product Usage,Yes
+571,184,44,Medium,0.44,Poor Support,No
+572,254,83,High,0.83,Poor Support,No
+573,986,99,High,0.99,Competitor Switch,No
+574,253,5,Low,0.05,Competitor Switch,No
+575,576,88,High,0.88,Low Product Usage,No
+576,750,59,Medium,0.59,Poor Support,No
+577,135,33,Low,0.33,Missing Features,No
+578,716,94,High,0.94,Poor Support,No
+579,964,10,Low,0.1,Poor Support,Yes
+580,92,43,Medium,0.43,Missing Features,No
+581,439,54,Medium,0.54,Competitor Switch,Yes
+582,884,11,Low,0.11,Competitor Switch,No
+583,468,99,High,0.99,Poor Support,Yes
+584,617,62,Medium,0.62,Missing Features,Yes
+585,786,80,High,0.8,Low Product Usage,No
+586,418,42,Medium,0.42,Poor Support,Yes
+587,470,80,High,0.8,Competitor Switch,No
+588,106,33,Low,0.33,Missing Features,Yes
+589,133,19,Low,0.19,High Pricing,Yes
+590,680,86,High,0.86,Missing Features,No
+591,417,35,Low,0.35,High Pricing,No
+592,202,1,Low,0.01,High Pricing,No
+593,262,98,High,0.98,High Pricing,No
+594,20,74,High,0.74,High Pricing,Yes
+595,868,37,Low,0.37,Poor Support,No
+596,461,73,High,0.73,Low Product Usage,No
+597,101,41,Medium,0.41,Poor Support,No
+598,816,9,Low,0.09,Poor Support,No
+599,678,49,Medium,0.49,Poor Support,No
+600,504,21,Low,0.21,Missing Features,No
+601,178,54,Medium,0.54,High Pricing,No
+602,227,17,Low,0.17,Competitor Switch,Yes
+603,843,3,Low,0.03,Low Product Usage,Yes
+604,815,66,Medium,0.66,Low Product Usage,Yes
+605,186,3,Low,0.03,Competitor Switch,Yes
+606,515,27,Low,0.27,Low Product Usage,No
+607,190,10,Low,0.1,High Pricing,No
+608,175,68,Medium,0.68,Competitor Switch,Yes
+609,43,58,Medium,0.58,Poor Support,Yes
+610,33,84,High,0.84,Competitor Switch,No
+611,621,78,High,0.78,Poor Support,Yes
+612,382,89,High,0.89,Missing Features,Yes
+613,215,37,Low,0.37,High Pricing,Yes
+614,229,62,Medium,0.62,High Pricing,No
+615,200,7,Low,0.07,Poor Support,Yes
+616,500,95,High,0.95,Poor Support,Yes
+617,469,65,Medium,0.65,Low Product Usage,No
+618,278,37,Low,0.37,High Pricing,No
+619,24,32,Low,0.32,Competitor Switch,No
+620,216,7,Low,0.07,Poor Support,Yes
+621,348,81,High,0.81,Missing Features,Yes
+622,364,12,Low,0.12,Poor Support,No
+623,384,71,High,0.71,Missing Features,Yes
+624,68,94,High,0.94,Poor Support,Yes
+625,612,5,Low,0.05,Missing Features,Yes
+626,812,54,Medium,0.54,Competitor Switch,No
+627,843,64,Medium,0.64,Competitor Switch,No
+628,989,59,Medium,0.59,Poor Support,No
+629,660,44,Medium,0.44,Competitor Switch,No
+630,591,40,Medium,0.4,Low Product Usage,No
+631,433,39,Low,0.39,Low Product Usage,Yes
+632,902,27,Low,0.27,Low Product Usage,Yes
+633,520,79,High,0.79,Low Product Usage,No
+634,645,26,Low,0.26,Low Product Usage,Yes
+635,873,14,Low,0.14,High Pricing,Yes
+636,230,49,Medium,0.49,Missing Features,Yes
+637,898,74,High,0.74,Low Product Usage,No
+638,793,27,Low,0.27,Poor Support,Yes
+639,78,69,Medium,0.69,Missing Features,Yes
+640,951,25,Low,0.25,Poor Support,Yes
+641,795,84,High,0.84,High Pricing,Yes
+642,375,47,Medium,0.47,High Pricing,No
+643,539,84,High,0.84,Missing Features,No
+644,7,44,Medium,0.44,High Pricing,No
+645,801,3,Low,0.03,Poor Support,No
+646,164,33,Low,0.33,High Pricing,No
+647,910,18,Low,0.18,Competitor Switch,Yes
+648,18,50,Medium,0.5,Competitor Switch,No
+649,231,92,High,0.92,High Pricing,No
+650,948,81,High,0.81,High Pricing,No
+651,240,40,Medium,0.4,Missing Features,No
+652,402,56,Medium,0.56,Poor Support,Yes
+653,863,54,Medium,0.54,Low Product Usage,Yes
+654,229,95,High,0.95,Low Product Usage,Yes
+655,620,59,Medium,0.59,Missing Features,No
+656,665,32,Low,0.32,High Pricing,Yes
+657,689,75,High,0.75,Low Product Usage,Yes
+658,16,56,Medium,0.56,Missing Features,No
+659,678,62,Medium,0.62,Poor Support,No
+660,193,22,Low,0.22,High Pricing,Yes
+661,193,30,Low,0.3,Low Product Usage,Yes
+662,235,59,Medium,0.59,Competitor Switch,Yes
+663,795,21,Low,0.21,Low Product Usage,Yes
+664,137,69,Medium,0.69,Low Product Usage,Yes
+665,400,76,High,0.76,Missing Features,No
+666,615,78,High,0.78,Low Product Usage,Yes
+667,706,50,Medium,0.5,Low Product Usage,Yes
+668,864,96,High,0.96,Missing Features,No
+669,183,41,Medium,0.41,Competitor Switch,No
+670,802,39,Low,0.39,Competitor Switch,No
+671,125,99,High,0.99,Low Product Usage,Yes
+672,638,31,Low,0.31,Missing Features,Yes
+673,374,4,Low,0.04,Low Product Usage,Yes
+674,731,48,Medium,0.48,Poor Support,No
+675,449,20,Low,0.2,Missing Features,No
+676,583,64,Medium,0.64,Missing Features,No
+677,982,43,Medium,0.43,Low Product Usage,No
+678,321,2,Low,0.02,High Pricing,No
+679,398,98,High,0.98,Competitor Switch,No
+680,553,98,High,0.98,High Pricing,Yes
+681,145,88,High,0.88,Low Product Usage,No
+682,843,58,Medium,0.58,High Pricing,Yes
+683,679,55,Medium,0.55,Competitor Switch,Yes
+684,937,98,High,0.98,Low Product Usage,Yes
+685,660,96,High,0.96,Poor Support,Yes
+686,569,8,Low,0.08,Low Product Usage,Yes
+687,276,60,Medium,0.6,Competitor Switch,Yes
+688,172,82,High,0.82,Competitor Switch,Yes
+689,788,35,Low,0.35,Competitor Switch,Yes
+690,221,87,High,0.87,Poor Support,Yes
+691,669,53,Medium,0.53,High Pricing,Yes
+692,490,85,High,0.85,Low Product Usage,Yes
+693,368,96,High,0.96,Competitor Switch,Yes
+694,675,88,High,0.88,High Pricing,No
+695,119,35,Low,0.35,Low Product Usage,No
+696,760,42,Medium,0.42,Poor Support,No
+697,527,45,Medium,0.45,Low Product Usage,Yes
+698,397,92,High,0.92,Missing Features,Yes
+699,829,17,Low,0.17,Missing Features,No
+700,931,63,Medium,0.63,Missing Features,No
+701,911,12,Low,0.12,Low Product Usage,Yes
+702,36,55,Medium,0.55,Competitor Switch,Yes
+703,829,45,Medium,0.45,Low Product Usage,No
+704,358,15,Low,0.15,Low Product Usage,No
+705,355,54,Medium,0.54,Competitor Switch,Yes
+706,404,54,Medium,0.54,Competitor Switch,No
+707,733,6,Low,0.06,Missing Features,Yes
+708,217,54,Medium,0.54,Poor Support,No
+709,322,33,Low,0.33,Competitor Switch,Yes
+710,395,44,Medium,0.44,Missing Features,No
+711,193,41,Medium,0.41,High Pricing,No
+712,606,15,Low,0.15,High Pricing,Yes
+713,344,27,Low,0.27,Missing Features,No
+714,630,54,Medium,0.54,Poor Support,Yes
+715,761,17,Low,0.17,Low Product Usage,No
+716,848,10,Low,0.1,Missing Features,Yes
+717,591,48,Medium,0.48,Competitor Switch,No
+718,918,9,Low,0.09,Missing Features,Yes
+719,861,11,Low,0.11,Poor Support,No
+720,726,73,High,0.73,Competitor Switch,No
+721,457,72,High,0.72,Competitor Switch,No
+722,540,71,High,0.71,Low Product Usage,No
+723,620,74,High,0.74,Missing Features,No
+724,485,95,High,0.95,Poor Support,Yes
+725,782,74,High,0.74,Competitor Switch,Yes
+726,468,8,Low,0.08,Low Product Usage,Yes
+727,611,64,Medium,0.64,High Pricing,No
+728,958,91,High,0.91,Poor Support,No
+729,637,74,High,0.74,Poor Support,Yes
+730,660,98,High,0.98,Low Product Usage,Yes
+731,777,55,Medium,0.55,Low Product Usage,Yes
+732,224,31,Low,0.31,High Pricing,Yes
+733,355,18,Low,0.18,Competitor Switch,No
+734,719,52,Medium,0.52,Missing Features,Yes
+735,383,15,Low,0.15,Competitor Switch,No
+736,612,27,Low,0.27,High Pricing,Yes
+737,158,74,High,0.74,Missing Features,No
+738,215,32,Low,0.32,Competitor Switch,Yes
+739,212,68,Medium,0.68,Low Product Usage,No
+740,945,29,Low,0.29,Competitor Switch,Yes
+741,339,54,Medium,0.54,Poor Support,Yes
+742,387,25,Low,0.25,High Pricing,No
+743,727,25,Low,0.25,Low Product Usage,No
+744,826,61,Medium,0.61,Poor Support,No
+745,498,63,Medium,0.63,Competitor Switch,No
+746,346,51,Medium,0.51,Missing Features,No
+747,111,22,Low,0.22,Missing Features,No
+748,577,9,Low,0.09,High Pricing,No
+749,249,2,Low,0.02,High Pricing,Yes
+750,282,96,High,0.96,Poor Support,No
+751,434,27,Low,0.27,High Pricing,Yes
+752,964,97,High,0.97,Poor Support,No
+753,216,99,High,0.99,Missing Features,Yes
+754,828,91,High,0.91,Competitor Switch,No
+755,161,89,High,0.89,Competitor Switch,Yes
+756,632,96,High,0.96,Low Product Usage,Yes
+757,67,88,High,0.88,Poor Support,No
+758,887,53,Medium,0.53,High Pricing,Yes
+759,471,72,High,0.72,Missing Features,Yes
+760,531,2,Low,0.02,Poor Support,Yes
+761,152,88,High,0.88,Competitor Switch,No
+762,226,65,Medium,0.65,Competitor Switch,Yes
+763,338,85,High,0.85,High Pricing,No
+764,853,26,Low,0.26,High Pricing,Yes
+765,771,13,Low,0.13,Poor Support,Yes
+766,96,60,Medium,0.6,Competitor Switch,Yes
+767,761,27,Low,0.27,Competitor Switch,No
+768,482,50,Medium,0.5,Competitor Switch,Yes
+769,864,51,Medium,0.51,Missing Features,No
+770,538,62,Medium,0.62,Poor Support,Yes
+771,613,84,High,0.84,Poor Support,Yes
+772,921,54,Medium,0.54,Low Product Usage,No
+773,67,44,Medium,0.44,High Pricing,Yes
+774,2,26,Low,0.26,Competitor Switch,Yes
+775,657,92,High,0.92,Poor Support,No
+776,995,4,Low,0.04,Poor Support,No
+777,574,47,Medium,0.47,Poor Support,No
+778,940,82,High,0.82,Poor Support,Yes
+779,641,85,High,0.85,Poor Support,Yes
+780,175,91,High,0.91,Low Product Usage,No
+781,183,17,Low,0.17,Competitor Switch,No
+782,254,54,Medium,0.54,Competitor Switch,Yes
+783,193,75,High,0.75,Low Product Usage,Yes
+784,253,94,High,0.94,Poor Support,Yes
+785,458,48,Medium,0.48,Competitor Switch,No
+786,826,72,High,0.72,High Pricing,No
+787,483,9,Low,0.09,Poor Support,No
+788,520,43,Medium,0.43,Poor Support,No
+789,491,80,High,0.8,Low Product Usage,Yes
+790,99,65,Medium,0.65,Low Product Usage,Yes
+791,708,93,High,0.93,Missing Features,Yes
+792,335,65,Medium,0.65,Missing Features,Yes
+793,382,1,Low,0.01,High Pricing,No
+794,234,16,Low,0.16,Low Product Usage,No
+795,830,57,Medium,0.57,Competitor Switch,No
+796,664,35,Low,0.35,Missing Features,Yes
+797,841,32,Low,0.32,Competitor Switch,Yes
+798,166,53,Medium,0.53,Low Product Usage,No
+799,76,53,Medium,0.53,Low Product Usage,Yes
+800,93,66,Medium,0.66,Poor Support,Yes
+801,657,91,High,0.91,Competitor Switch,Yes
+802,446,73,High,0.73,Low Product Usage,No
+803,917,91,High,0.91,Missing Features,Yes
+804,223,17,Low,0.17,Missing Features,No
+805,633,72,High,0.72,Low Product Usage,No
+806,559,25,Low,0.25,Low Product Usage,No
+807,995,59,Medium,0.59,Competitor Switch,No
+808,857,51,Medium,0.51,High Pricing,Yes
+809,47,70,High,0.7,Missing Features,No
+810,347,44,Medium,0.44,Low Product Usage,Yes
+811,232,100,High,1.0,High Pricing,Yes
+812,660,90,High,0.9,Low Product Usage,No
+813,111,93,High,0.93,Competitor Switch,No
+814,789,66,Medium,0.66,Poor Support,Yes
+815,329,27,Low,0.27,Missing Features,No
+816,365,97,High,0.97,Missing Features,Yes
+817,159,50,Medium,0.5,High Pricing,Yes
+818,825,75,High,0.75,Low Product Usage,Yes
+819,754,20,Low,0.2,Competitor Switch,Yes
+820,549,54,Medium,0.54,Competitor Switch,Yes
+821,628,72,High,0.72,Low Product Usage,Yes
+822,716,53,Medium,0.53,High Pricing,No
+823,985,69,Medium,0.69,High Pricing,No
+824,772,18,Low,0.18,High Pricing,Yes
+825,311,4,Low,0.04,Poor Support,Yes
+826,458,71,High,0.71,Missing Features,Yes
+827,41,9,Low,0.09,Poor Support,Yes
+828,787,98,High,0.98,Missing Features,No
+829,44,51,Medium,0.51,Competitor Switch,No
+830,181,29,Low,0.29,Competitor Switch,Yes
+831,788,3,Low,0.03,Poor Support,No
+832,753,29,Low,0.29,Low Product Usage,No
+833,598,65,Medium,0.65,Poor Support,No
+834,303,47,Medium,0.47,Competitor Switch,No
+835,447,1,Low,0.01,Competitor Switch,Yes
+836,828,75,High,0.75,High Pricing,No
+837,824,52,Medium,0.52,Low Product Usage,No
+838,618,37,Low,0.37,Poor Support,No
+839,91,63,Medium,0.63,Competitor Switch,Yes
+840,18,41,Medium,0.41,Low Product Usage,No
+841,208,58,Medium,0.58,Poor Support,Yes
+842,368,10,Low,0.1,Competitor Switch,No
+843,660,93,High,0.93,Missing Features,Yes
+844,213,76,High,0.76,Low Product Usage,No
+845,127,55,Medium,0.55,Missing Features,No
+846,924,96,High,0.96,Poor Support,Yes
+847,736,97,High,0.97,Low Product Usage,No
+848,968,69,Medium,0.69,High Pricing,Yes
+849,621,21,Low,0.21,Low Product Usage,Yes
+850,534,13,Low,0.13,Poor Support,Yes
+851,647,55,Medium,0.55,Competitor Switch,Yes
+852,861,41,Medium,0.41,Low Product Usage,No
+853,251,100,High,1.0,Missing Features,Yes
+854,108,88,High,0.88,High Pricing,No
+855,339,67,Medium,0.67,High Pricing,No
+856,242,2,Low,0.02,High Pricing,No
+857,34,50,Medium,0.5,High Pricing,No
+858,86,78,High,0.78,Competitor Switch,Yes
+859,853,6,Low,0.06,High Pricing,Yes
+860,306,75,High,0.75,High Pricing,Yes
+861,819,58,Medium,0.58,Poor Support,No
+862,789,33,Low,0.33,Competitor Switch,No
+863,705,98,High,0.98,Poor Support,No
+864,240,94,High,0.94,Competitor Switch,No
+865,346,32,Low,0.32,Competitor Switch,Yes
+866,312,74,High,0.74,High Pricing,No
+867,859,14,Low,0.14,Poor Support,Yes
+868,254,74,High,0.74,Missing Features,No
+869,984,74,High,0.74,Competitor Switch,No
+870,116,9,Low,0.09,Missing Features,Yes
+871,778,19,Low,0.19,High Pricing,Yes
+872,921,2,Low,0.02,Low Product Usage,No
+873,208,17,Low,0.17,Missing Features,No
+874,612,84,High,0.84,Poor Support,No
+875,600,81,High,0.81,High Pricing,Yes
+876,311,12,Low,0.12,Missing Features,Yes
+877,670,26,Low,0.26,Low Product Usage,No
+878,917,96,High,0.96,High Pricing,No
+879,608,22,Low,0.22,Missing Features,No
+880,881,9,Low,0.09,Poor Support,No
+881,212,73,High,0.73,Competitor Switch,Yes
+882,926,94,High,0.94,Poor Support,Yes
+883,797,32,Low,0.32,Missing Features,No
+884,847,87,High,0.87,Competitor Switch,No
+885,368,50,Medium,0.5,Competitor Switch,Yes
+886,741,81,High,0.81,Competitor Switch,Yes
+887,726,94,High,0.94,Missing Features,No
+888,552,10,Low,0.1,Poor Support,No
+889,467,3,Low,0.03,Poor Support,No
+890,551,71,High,0.71,Poor Support,No
+891,738,37,Low,0.37,Low Product Usage,Yes
+892,294,3,Low,0.03,Missing Features,Yes
+893,290,66,Medium,0.66,Poor Support,No
+894,970,31,Low,0.31,Poor Support,Yes
+895,587,82,High,0.82,Missing Features,No
+896,86,91,High,0.91,High Pricing,Yes
+897,966,50,Medium,0.5,Competitor Switch,Yes
+898,233,66,Medium,0.66,Poor Support,Yes
+899,81,61,Medium,0.61,High Pricing,No
+900,370,40,Medium,0.4,Missing Features,Yes
+901,680,71,High,0.71,Low Product Usage,Yes
+902,288,29,Low,0.29,Poor Support,Yes
+903,926,10,Low,0.1,Competitor Switch,No
+904,279,8,Low,0.08,Low Product Usage,No
+905,37,58,Medium,0.58,Competitor Switch,No
+906,920,64,Medium,0.64,High Pricing,Yes
+907,432,91,High,0.91,Missing Features,Yes
+908,672,98,High,0.98,High Pricing,Yes
+909,282,8,Low,0.08,Poor Support,No
+910,605,41,Medium,0.41,Competitor Switch,No
+911,418,5,Low,0.05,Low Product Usage,Yes
+912,66,31,Low,0.31,High Pricing,Yes
+913,686,54,Medium,0.54,High Pricing,No
+914,432,57,Medium,0.57,Competitor Switch,No
+915,315,15,Low,0.15,Missing Features,Yes
+916,894,35,Low,0.35,Missing Features,No
+917,571,85,High,0.85,Poor Support,No
+918,707,42,Medium,0.42,Low Product Usage,No
+919,802,9,Low,0.09,Poor Support,No
+920,764,37,Low,0.37,Missing Features,No
+921,437,62,Medium,0.62,Low Product Usage,No
+922,735,13,Low,0.13,Low Product Usage,No
+923,248,30,Low,0.3,Competitor Switch,No
+924,836,98,High,0.98,Poor Support,No
+925,333,57,Medium,0.57,Low Product Usage,No
+926,315,87,High,0.87,Missing Features,Yes
+927,252,42,Medium,0.42,Poor Support,No
+928,747,84,High,0.84,Missing Features,Yes
+929,628,91,High,0.91,High Pricing,No
+930,996,14,Low,0.14,High Pricing,Yes
+931,516,41,Medium,0.41,Competitor Switch,No
+932,61,32,Low,0.32,Poor Support,No
+933,424,10,Low,0.1,Low Product Usage,No
+934,464,55,Medium,0.55,Low Product Usage,No
+935,91,64,Medium,0.64,High Pricing,No
+936,775,8,Low,0.08,Competitor Switch,Yes
+937,461,78,High,0.78,Missing Features,Yes
+938,719,65,Medium,0.65,Poor Support,Yes
+939,237,75,High,0.75,Poor Support,No
+940,744,56,Medium,0.56,Low Product Usage,Yes
+941,736,23,Low,0.23,Competitor Switch,No
+942,931,66,Medium,0.66,Competitor Switch,Yes
+943,153,32,Low,0.32,Low Product Usage,No
+944,935,49,Medium,0.49,Poor Support,Yes
+945,587,27,Low,0.27,Missing Features,Yes
+946,397,32,Low,0.32,Low Product Usage,No
+947,2,18,Low,0.18,Low Product Usage,No
+948,720,58,Medium,0.58,High Pricing,No
+949,766,10,Low,0.1,Low Product Usage,No
+950,173,93,High,0.93,Competitor Switch,Yes
+951,990,52,Medium,0.52,Poor Support,Yes
+952,64,82,High,0.82,Poor Support,Yes
+953,437,35,Low,0.35,Poor Support,No
+954,899,12,Low,0.12,Competitor Switch,Yes
+955,771,86,High,0.86,Missing Features,No
+956,537,99,High,0.99,Poor Support,No
+957,292,75,High,0.75,Competitor Switch,No
+958,87,62,Medium,0.62,Competitor Switch,Yes
+959,770,28,Low,0.28,Competitor Switch,Yes
+960,226,27,Low,0.27,Missing Features,No
+961,982,84,High,0.84,Low Product Usage,No
+962,189,72,High,0.72,Competitor Switch,Yes
+963,25,53,Medium,0.53,Missing Features,Yes
+964,856,74,High,0.74,Poor Support,Yes
+965,743,79,High,0.79,Poor Support,Yes
+966,487,93,High,0.93,Missing Features,No
+967,586,12,Low,0.12,Poor Support,Yes
+968,198,18,Low,0.18,Missing Features,Yes
+969,98,98,High,0.98,Competitor Switch,Yes
+970,534,45,Medium,0.45,Poor Support,No
+971,260,94,High,0.94,High Pricing,No
+972,471,36,Low,0.36,Low Product Usage,No
+973,191,36,Low,0.36,High Pricing,Yes
+974,390,41,Medium,0.41,Missing Features,Yes
+975,58,11,Low,0.11,Low Product Usage,Yes
+976,866,7,Low,0.07,Poor Support,No
+977,994,52,Medium,0.52,Poor Support,Yes
+978,293,26,Low,0.26,Poor Support,Yes
+979,30,56,Medium,0.56,Competitor Switch,Yes
+980,546,42,Medium,0.42,Low Product Usage,Yes
+981,325,40,Medium,0.4,Competitor Switch,No
+982,511,47,Medium,0.47,Competitor Switch,Yes
+983,992,55,Medium,0.55,Missing Features,No
+984,708,84,High,0.84,Poor Support,Yes
+985,249,25,Low,0.25,Poor Support,No
+986,947,8,Low,0.08,Missing Features,No
+987,145,23,Low,0.23,Missing Features,No
+988,830,69,Medium,0.69,Low Product Usage,No
+989,270,38,Low,0.38,Poor Support,No
+990,569,57,Medium,0.57,Competitor Switch,Yes
+991,684,88,High,0.88,Missing Features,Yes
+992,676,27,Low,0.27,High Pricing,Yes
+993,671,47,Medium,0.47,Missing Features,No
+994,901,23,Low,0.23,Missing Features,No
+995,618,51,Medium,0.51,Competitor Switch,Yes
+996,843,51,Medium,0.51,Poor Support,Yes
+997,313,51,Medium,0.51,Poor Support,Yes
+998,371,3,Low,0.03,Missing Features,No
+999,265,50,Medium,0.5,High Pricing,Yes
+1000,351,61,Medium,0.61,Poor Support,No
+1001,204,20,Low,0.2,Missing Features,Yes
+1002,133,31,Low,0.31,Poor Support,No
+1003,797,40,Medium,0.4,Missing Features,Yes
+1004,303,66,Medium,0.66,Low Product Usage,No
+1005,850,37,Low,0.37,Missing Features,Yes
+1006,765,81,High,0.81,High Pricing,No
+1007,288,31,Low,0.31,Low Product Usage,Yes
+1008,937,88,High,0.88,High Pricing,Yes
+1009,831,13,Low,0.13,High Pricing,Yes
+1010,251,50,Medium,0.5,Competitor Switch,Yes
+1011,906,99,High,0.99,Competitor Switch,No
+1012,168,23,Low,0.23,Poor Support,No
+1013,438,47,Medium,0.47,Low Product Usage,No
+1014,284,10,Low,0.1,Low Product Usage,Yes
+1015,314,69,Medium,0.69,Low Product Usage,No
+1016,392,79,High,0.79,Competitor Switch,Yes
+1017,573,21,Low,0.21,Missing Features,No
+1018,628,10,Low,0.1,High Pricing,Yes
+1019,746,66,Medium,0.66,Low Product Usage,No
+1020,380,11,Low,0.11,High Pricing,No
+1021,49,94,High,0.94,Competitor Switch,Yes
+1022,632,95,High,0.95,High Pricing,Yes
+1023,162,50,Medium,0.5,High Pricing,No
+1024,27,54,Medium,0.54,Missing Features,Yes
+1025,951,82,High,0.82,High Pricing,No
+1026,964,34,Low,0.34,Missing Features,No
+1027,260,26,Low,0.26,Missing Features,Yes
+1028,331,93,High,0.93,Competitor Switch,Yes
+1029,166,40,Medium,0.4,Low Product Usage,Yes
+1030,595,4,Low,0.04,Competitor Switch,No
+1031,99,81,High,0.81,Competitor Switch,No
+1032,849,41,Medium,0.41,Competitor Switch,Yes
+1033,38,19,Low,0.19,High Pricing,No
+1034,951,45,Medium,0.45,High Pricing,Yes
+1035,830,88,High,0.88,Low Product Usage,Yes
+1036,800,28,Low,0.28,Missing Features,Yes
+1037,810,45,Medium,0.45,Low Product Usage,No
+1038,84,2,Low,0.02,Competitor Switch,Yes
+1039,213,9,Low,0.09,High Pricing,No
+1040,28,97,High,0.97,Poor Support,No
+1041,698,4,Low,0.04,Poor Support,Yes
+1042,64,85,High,0.85,High Pricing,No
+1043,709,82,High,0.82,High Pricing,No
+1044,385,56,Medium,0.56,Competitor Switch,Yes
+1045,757,33,Low,0.33,Missing Features,No
+1046,959,30,Low,0.3,Poor Support,Yes
+1047,697,100,High,1.0,High Pricing,No
+1048,335,98,High,0.98,High Pricing,No
+1049,940,59,Medium,0.59,Missing Features,No
+1050,427,46,Medium,0.46,Low Product Usage,Yes
+1051,491,22,Low,0.22,Missing Features,Yes
+1052,312,38,Low,0.38,Missing Features,Yes
+1053,638,21,Low,0.21,High Pricing,Yes
+1054,138,65,Medium,0.65,Missing Features,Yes
+1055,242,46,Medium,0.46,Poor Support,Yes
+1056,274,66,Medium,0.66,Missing Features,No
+1057,712,18,Low,0.18,High Pricing,No
+1058,191,51,Medium,0.51,Missing Features,Yes
+1059,730,16,Low,0.16,Poor Support,No
+1060,24,78,High,0.78,Competitor Switch,Yes
+1061,348,43,Medium,0.43,High Pricing,No
+1062,418,98,High,0.98,High Pricing,No
+1063,263,95,High,0.95,Poor Support,Yes
+1064,440,36,Low,0.36,Missing Features,Yes
+1065,445,30,Low,0.3,Missing Features,No
+1066,352,31,Low,0.31,High Pricing,Yes
+1067,595,89,High,0.89,Poor Support,No
+1068,690,6,Low,0.06,Poor Support,No
+1069,939,33,Low,0.33,Missing Features,No
+1070,891,20,Low,0.2,Poor Support,Yes
+1071,727,65,Medium,0.65,Low Product Usage,No
+1072,940,7,Low,0.07,Poor Support,No
+1073,446,83,High,0.83,Competitor Switch,No
+1074,361,33,Low,0.33,Poor Support,No
+1075,117,20,Low,0.2,Missing Features,No
+1076,523,95,High,0.95,Missing Features,Yes
+1077,980,25,Low,0.25,Poor Support,Yes
+1078,794,67,Medium,0.67,Competitor Switch,No
+1079,487,13,Low,0.13,Low Product Usage,No
+1080,461,84,High,0.84,Poor Support,Yes
+1081,600,76,High,0.76,High Pricing,No
+1082,444,3,Low,0.03,Low Product Usage,Yes
+1083,628,97,High,0.97,Low Product Usage,No
+1084,537,85,High,0.85,High Pricing,No
+1085,737,75,High,0.75,High Pricing,No
+1086,666,16,Low,0.16,Missing Features,Yes
+1087,576,28,Low,0.28,Competitor Switch,No
+1088,725,22,Low,0.22,High Pricing,Yes
+1089,474,79,High,0.79,High Pricing,No
+1090,539,33,Low,0.33,Low Product Usage,No
+1091,343,61,Medium,0.61,Missing Features,Yes
+1092,97,73,High,0.73,High Pricing,Yes
+1093,314,61,Medium,0.61,High Pricing,No
+1094,288,33,Low,0.33,High Pricing,Yes
+1095,35,26,Low,0.26,Low Product Usage,No
+1096,314,51,Medium,0.51,Missing Features,No
+1097,181,68,Medium,0.68,Competitor Switch,No
+1098,334,87,High,0.87,Competitor Switch,Yes
+1099,727,62,Medium,0.62,Low Product Usage,No
+1100,827,77,High,0.77,Competitor Switch,No
+1101,23,49,Medium,0.49,High Pricing,No
+1102,511,18,Low,0.18,Poor Support,No
+1103,246,49,Medium,0.49,High Pricing,No
+1104,492,61,Medium,0.61,Low Product Usage,Yes
+1105,350,19,Low,0.19,High Pricing,Yes
+1106,735,70,High,0.7,High Pricing,Yes
+1107,488,56,Medium,0.56,Missing Features,Yes
+1108,740,65,Medium,0.65,Poor Support,No
+1109,200,17,Low,0.17,Missing Features,No
+1110,930,1,Low,0.01,Low Product Usage,Yes
+1111,674,75,High,0.75,Poor Support,No
+1112,376,15,Low,0.15,Competitor Switch,Yes
+1113,709,18,Low,0.18,Competitor Switch,No
+1114,249,62,Medium,0.62,Competitor Switch,No
+1115,296,17,Low,0.17,Competitor Switch,No
+1116,677,72,High,0.72,Low Product Usage,Yes
+1117,97,28,Low,0.28,High Pricing,No
+1118,79,26,Low,0.26,Competitor Switch,No
+1119,170,67,Medium,0.67,High Pricing,No
+1120,365,41,Medium,0.41,Poor Support,No
+1121,82,83,High,0.83,Missing Features,Yes
+1122,75,32,Low,0.32,Low Product Usage,Yes
+1123,93,63,Medium,0.63,Competitor Switch,No
+1124,763,21,Low,0.21,Missing Features,Yes
+1125,195,97,High,0.97,Missing Features,Yes
+1126,30,2,Low,0.02,Poor Support,No
+1127,93,31,Low,0.31,Missing Features,No
+1128,222,18,Low,0.18,Competitor Switch,Yes
+1129,887,67,Medium,0.67,Missing Features,No
+1130,325,25,Low,0.25,Poor Support,No
+1131,374,31,Low,0.31,Low Product Usage,Yes
+1132,232,12,Low,0.12,High Pricing,No
+1133,291,80,High,0.8,Missing Features,No
+1134,742,93,High,0.93,Low Product Usage,No
+1135,915,43,Medium,0.43,Low Product Usage,No
+1136,965,26,Low,0.26,Competitor Switch,No
+1137,511,5,Low,0.05,Low Product Usage,Yes
+1138,532,74,High,0.74,Competitor Switch,No
+1139,460,69,Medium,0.69,High Pricing,No
+1140,517,47,Medium,0.47,Competitor Switch,No
+1141,84,74,High,0.74,Competitor Switch,No
+1142,770,30,Low,0.3,Missing Features,No
+1143,795,13,Low,0.13,High Pricing,Yes
+1144,19,99,High,0.99,Low Product Usage,Yes
+1145,791,44,Medium,0.44,Competitor Switch,Yes
+1146,2,52,Medium,0.52,Missing Features,Yes
+1147,292,7,Low,0.07,Missing Features,Yes
+1148,313,38,Low,0.38,High Pricing,No
+1149,755,41,Medium,0.41,Competitor Switch,No
+1150,988,28,Low,0.28,High Pricing,No
+1151,622,92,High,0.92,Poor Support,Yes
+1152,135,88,High,0.88,Missing Features,No
+1153,695,85,High,0.85,Competitor Switch,Yes
+1154,269,87,High,0.87,Competitor Switch,Yes
+1155,722,50,Medium,0.5,Low Product Usage,No
+1156,469,24,Low,0.24,Poor Support,No
+1157,138,32,Low,0.32,Low Product Usage,Yes
+1158,312,16,Low,0.16,High Pricing,No
+1159,966,69,Medium,0.69,Low Product Usage,No
+1160,301,72,High,0.72,Competitor Switch,No
+1161,968,15,Low,0.15,Poor Support,No
+1162,9,42,Medium,0.42,Competitor Switch,Yes
+1163,561,71,High,0.71,High Pricing,Yes
+1164,852,99,High,0.99,Missing Features,Yes
+1165,768,22,Low,0.22,Competitor Switch,No
+1166,952,84,High,0.84,Poor Support,No
+1167,97,74,High,0.74,Missing Features,Yes
+1168,864,80,High,0.8,Competitor Switch,Yes
+1169,746,82,High,0.82,Missing Features,No
+1170,51,13,Low,0.13,Low Product Usage,No
+1171,143,48,Medium,0.48,Poor Support,No
+1172,480,92,High,0.92,Poor Support,Yes
+1173,134,91,High,0.91,Low Product Usage,Yes
+1174,815,59,Medium,0.59,Competitor Switch,Yes
+1175,423,16,Low,0.16,Missing Features,No
+1176,597,48,Medium,0.48,Missing Features,No
+1177,735,64,Medium,0.64,High Pricing,No
+1178,574,16,Low,0.16,Competitor Switch,No
+1179,152,33,Low,0.33,Missing Features,Yes
+1180,89,35,Low,0.35,Low Product Usage,Yes
+1181,239,1,Low,0.01,High Pricing,No
+1182,568,5,Low,0.05,Competitor Switch,No
+1183,739,53,Medium,0.53,High Pricing,Yes
+1184,585,31,Low,0.31,High Pricing,Yes
+1185,878,94,High,0.94,Competitor Switch,No
+1186,593,100,High,1.0,High Pricing,No
+1187,141,99,High,0.99,Missing Features,No
+1188,629,21,Low,0.21,Missing Features,No
+1189,953,68,Medium,0.68,Poor Support,Yes
+1190,633,94,High,0.94,Missing Features,No
+1191,246,96,High,0.96,Low Product Usage,Yes
+1192,926,59,Medium,0.59,Poor Support,No
+1193,446,34,Low,0.34,Missing Features,No
+1194,344,74,High,0.74,Missing Features,Yes
+1195,695,48,Medium,0.48,High Pricing,No
+1196,363,89,High,0.89,Poor Support,No
+1197,627,53,Medium,0.53,Low Product Usage,No
+1198,138,58,Medium,0.58,Low Product Usage,No
+1199,402,72,High,0.72,Poor Support,No
+1200,255,9,Low,0.09,High Pricing,No
+1201,730,25,Low,0.25,Missing Features,Yes
+1202,37,46,Medium,0.46,Missing Features,Yes
+1203,762,56,Medium,0.56,Competitor Switch,No
+1204,245,16,Low,0.16,Missing Features,No
+1205,299,25,Low,0.25,Competitor Switch,Yes
+1206,959,99,High,0.99,High Pricing,No
+1207,458,38,Low,0.38,Poor Support,Yes
+1208,200,33,Low,0.33,High Pricing,Yes
+1209,622,45,Medium,0.45,Competitor Switch,Yes
+1210,614,6,Low,0.06,Low Product Usage,Yes
+1211,371,26,Low,0.26,High Pricing,No
+1212,363,88,High,0.88,Competitor Switch,No
+1213,217,60,Medium,0.6,Low Product Usage,Yes
+1214,851,62,Medium,0.62,High Pricing,No
+1215,159,15,Low,0.15,Poor Support,No
+1216,589,74,High,0.74,Competitor Switch,Yes
+1217,536,57,Medium,0.57,Competitor Switch,Yes
+1218,357,95,High,0.95,Low Product Usage,Yes
+1219,253,53,Medium,0.53,Low Product Usage,Yes
+1220,57,90,High,0.9,Competitor Switch,Yes
+1221,5,73,High,0.73,Missing Features,Yes
+1222,877,89,High,0.89,Low Product Usage,Yes
+1223,883,66,Medium,0.66,Missing Features,Yes
+1224,641,63,Medium,0.63,Competitor Switch,No
+1225,8,51,Medium,0.51,Poor Support,Yes
+1226,806,57,Medium,0.57,High Pricing,Yes
+1227,796,95,High,0.95,Low Product Usage,No
+1228,83,32,Low,0.32,High Pricing,No
+1229,700,82,High,0.82,Poor Support,Yes
+1230,299,41,Medium,0.41,Missing Features,No
+1231,457,54,Medium,0.54,Low Product Usage,No
+1232,926,17,Low,0.17,Low Product Usage,No
+1233,698,7,Low,0.07,Low Product Usage,No
+1234,777,60,Medium,0.6,Missing Features,Yes
+1235,342,84,High,0.84,High Pricing,Yes
+1236,191,56,Medium,0.56,Missing Features,Yes
+1237,935,51,Medium,0.51,High Pricing,No
+1238,464,91,High,0.91,Low Product Usage,Yes
+1239,531,85,High,0.85,Poor Support,No
+1240,968,9,Low,0.09,Poor Support,No
+1241,108,4,Low,0.04,Missing Features,No
+1242,613,29,Low,0.29,High Pricing,Yes
+1243,566,20,Low,0.2,High Pricing,No
+1244,832,50,Medium,0.5,Competitor Switch,No
+1245,272,52,Medium,0.52,Low Product Usage,No
+1246,947,84,High,0.84,High Pricing,No
+1247,207,30,Low,0.3,Poor Support,No
+1248,584,21,Low,0.21,High Pricing,No
+1249,908,73,High,0.73,Low Product Usage,Yes
+1250,269,43,Medium,0.43,Poor Support,Yes
+1251,651,65,Medium,0.65,Competitor Switch,Yes
+1252,333,60,Medium,0.6,Missing Features,Yes
+1253,967,47,Medium,0.47,Missing Features,Yes
+1254,58,31,Low,0.31,Missing Features,Yes
+1255,30,43,Medium,0.43,Competitor Switch,Yes
+1256,759,24,Low,0.24,High Pricing,Yes
+1257,535,49,Medium,0.49,Competitor Switch,No
+1258,162,38,Low,0.38,Low Product Usage,No
+1259,816,48,Medium,0.48,Poor Support,No
+1260,867,15,Low,0.15,Low Product Usage,Yes
+1261,836,4,Low,0.04,Competitor Switch,Yes
+1262,251,95,High,0.95,Low Product Usage,No
+1263,9,64,Medium,0.64,High Pricing,No
+1264,655,21,Low,0.21,Missing Features,No
+1265,31,5,Low,0.05,Missing Features,No
+1266,37,69,Medium,0.69,Competitor Switch,No
+1267,481,38,Low,0.38,High Pricing,Yes
+1268,921,99,High,0.99,Poor Support,No
+1269,969,87,High,0.87,Missing Features,No
+1270,860,84,High,0.84,Poor Support,No
+1271,298,72,High,0.72,Competitor Switch,Yes
+1272,254,52,Medium,0.52,Poor Support,No
+1273,144,56,Medium,0.56,High Pricing,Yes
+1274,792,50,Medium,0.5,Poor Support,No
+1275,829,86,High,0.86,Low Product Usage,Yes
+1276,693,47,Medium,0.47,High Pricing,No
+1277,238,98,High,0.98,Missing Features,No
+1278,652,89,High,0.89,Low Product Usage,Yes
+1279,30,75,High,0.75,Poor Support,No
+1280,657,67,Medium,0.67,Low Product Usage,No
+1281,431,28,Low,0.28,High Pricing,Yes
+1282,882,59,Medium,0.59,Poor Support,No
+1283,700,98,High,0.98,Low Product Usage,No
+1284,486,68,Medium,0.68,High Pricing,Yes
+1285,621,80,High,0.8,Competitor Switch,No
+1286,55,89,High,0.89,Poor Support,Yes
+1287,173,26,Low,0.26,Low Product Usage,No
+1288,813,98,High,0.98,High Pricing,No
+1289,862,36,Low,0.36,Competitor Switch,Yes
+1290,432,41,Medium,0.41,Poor Support,No
+1291,951,99,High,0.99,Low Product Usage,Yes
+1292,847,20,Low,0.2,Poor Support,Yes
+1293,589,87,High,0.87,Low Product Usage,No
+1294,57,6,Low,0.06,Missing Features,Yes
+1295,638,1,Low,0.01,High Pricing,No
+1296,707,68,Medium,0.68,High Pricing,Yes
+1297,828,75,High,0.75,Competitor Switch,Yes
+1298,339,79,High,0.79,Missing Features,No
+1299,209,6,Low,0.06,Missing Features,No
+1300,748,32,Low,0.32,Competitor Switch,No
+1301,851,71,High,0.71,High Pricing,Yes
+1302,853,52,Medium,0.52,Missing Features,Yes
+1303,456,63,Medium,0.63,Missing Features,Yes
+1304,252,2,Low,0.02,High Pricing,Yes
+1305,2,42,Medium,0.42,Missing Features,Yes
+1306,631,43,Medium,0.43,Missing Features,Yes
+1307,816,70,High,0.7,High Pricing,No
+1308,264,3,Low,0.03,Poor Support,Yes
+1309,578,37,Low,0.37,High Pricing,No
+1310,760,5,Low,0.05,Missing Features,Yes
+1311,501,89,High,0.89,High Pricing,No
+1312,195,49,Medium,0.49,Poor Support,No
+1313,815,83,High,0.83,Missing Features,No
+1314,44,76,High,0.76,Missing Features,Yes
+1315,854,82,High,0.82,Poor Support,Yes
+1316,875,100,High,1.0,Poor Support,Yes
+1317,394,13,Low,0.13,Competitor Switch,No
+1318,436,73,High,0.73,Low Product Usage,No
+1319,49,3,Low,0.03,Poor Support,Yes
+1320,512,21,Low,0.21,Low Product Usage,No
+1321,409,58,Medium,0.58,Competitor Switch,No
+1322,34,19,Low,0.19,Missing Features,Yes
+1323,86,20,Low,0.2,Low Product Usage,Yes
+1324,180,51,Medium,0.51,Poor Support,Yes
+1325,972,59,Medium,0.59,Low Product Usage,No
+1326,837,75,High,0.75,Low Product Usage,Yes
+1327,664,23,Low,0.23,Competitor Switch,Yes
+1328,182,75,High,0.75,Poor Support,Yes
+1329,167,32,Low,0.32,Poor Support,Yes
+1330,477,93,High,0.93,Low Product Usage,No
+1331,960,48,Medium,0.48,Competitor Switch,No
+1332,980,64,Medium,0.64,High Pricing,No
+1333,606,51,Medium,0.51,Low Product Usage,No
+1334,137,66,Medium,0.66,High Pricing,Yes
+1335,190,3,Low,0.03,Low Product Usage,No
+1336,383,8,Low,0.08,Low Product Usage,Yes
+1337,783,65,Medium,0.65,Missing Features,No
+1338,460,38,Low,0.38,High Pricing,No
+1339,774,35,Low,0.35,Low Product Usage,Yes
+1340,940,68,Medium,0.68,Competitor Switch,Yes
+1341,531,93,High,0.93,Missing Features,No
+1342,907,25,Low,0.25,Poor Support,Yes
+1343,383,29,Low,0.29,High Pricing,No
+1344,292,19,Low,0.19,Low Product Usage,No
+1345,490,50,Medium,0.5,Low Product Usage,Yes
+1346,998,24,Low,0.24,Competitor Switch,Yes
+1347,904,28,Low,0.28,Missing Features,No
+1348,686,100,High,1.0,Low Product Usage,No
+1349,918,33,Low,0.33,Low Product Usage,No
+1350,530,16,Low,0.16,Missing Features,Yes
+1351,874,89,High,0.89,Low Product Usage,Yes
+1352,723,74,High,0.74,Poor Support,No
+1353,70,5,Low,0.05,Missing Features,Yes
+1354,11,48,Medium,0.48,Low Product Usage,No
+1355,634,19,Low,0.19,Competitor Switch,No
+1356,53,73,High,0.73,Missing Features,Yes
+1357,195,76,High,0.76,Poor Support,Yes
+1358,59,56,Medium,0.56,Missing Features,No
+1359,504,48,Medium,0.48,Competitor Switch,Yes
+1360,981,23,Low,0.23,Low Product Usage,No
+1361,378,19,Low,0.19,Competitor Switch,No
+1362,826,89,High,0.89,Poor Support,Yes
+1363,306,31,Low,0.31,Competitor Switch,Yes
+1364,544,11,Low,0.11,Poor Support,No
+1365,151,44,Medium,0.44,Poor Support,No
+1366,923,16,Low,0.16,Missing Features,Yes
+1367,56,79,High,0.79,Missing Features,No
+1368,680,44,Medium,0.44,Competitor Switch,Yes
+1369,159,21,Low,0.21,Poor Support,Yes
+1370,678,12,Low,0.12,Competitor Switch,No
+1371,395,11,Low,0.11,High Pricing,No
+1372,595,17,Low,0.17,Missing Features,No
+1373,437,47,Medium,0.47,High Pricing,Yes
+1374,814,96,High,0.96,Competitor Switch,No
+1375,400,35,Low,0.35,Competitor Switch,Yes
+1376,599,100,High,1.0,Low Product Usage,Yes
+1377,88,36,Low,0.36,High Pricing,No
+1378,401,90,High,0.9,Poor Support,Yes
+1379,427,4,Low,0.04,Poor Support,Yes
+1380,88,31,Low,0.31,High Pricing,No
+1381,774,85,High,0.85,Competitor Switch,No
+1382,562,74,High,0.74,High Pricing,No
+1383,488,55,Medium,0.55,Competitor Switch,No
+1384,104,61,Medium,0.61,Competitor Switch,Yes
+1385,761,97,High,0.97,High Pricing,Yes
+1386,779,11,Low,0.11,High Pricing,No
+1387,694,1,Low,0.01,Missing Features,Yes
+1388,184,66,Medium,0.66,Low Product Usage,Yes
+1389,461,95,High,0.95,Competitor Switch,Yes
+1390,176,51,Medium,0.51,High Pricing,Yes
+1391,78,83,High,0.83,Missing Features,No
+1392,262,61,Medium,0.61,Competitor Switch,No
+1393,362,83,High,0.83,Poor Support,Yes
+1394,343,96,High,0.96,Low Product Usage,Yes
+1395,538,18,Low,0.18,Low Product Usage,Yes
+1396,605,76,High,0.76,Poor Support,Yes
+1397,113,18,Low,0.18,Low Product Usage,Yes
+1398,385,47,Medium,0.47,Competitor Switch,No
+1399,613,58,Medium,0.58,Poor Support,No
+1400,564,59,Medium,0.59,Low Product Usage,No
+1401,271,58,Medium,0.58,Low Product Usage,Yes
+1402,783,22,Low,0.22,High Pricing,No
+1403,414,24,Low,0.24,High Pricing,Yes
+1404,78,37,Low,0.37,Missing Features,No
+1405,439,56,Medium,0.56,High Pricing,Yes
+1406,317,92,High,0.92,Competitor Switch,Yes
+1407,800,68,Medium,0.68,Poor Support,No
+1408,662,92,High,0.92,Missing Features,No
+1409,865,70,High,0.7,Missing Features,No
+1410,832,23,Low,0.23,High Pricing,No
+1411,589,60,Medium,0.6,Low Product Usage,Yes
+1412,589,48,Medium,0.48,Missing Features,No
+1413,84,58,Medium,0.58,Competitor Switch,Yes
+1414,728,50,Medium,0.5,Missing Features,Yes
+1415,409,88,High,0.88,Missing Features,Yes
+1416,972,68,Medium,0.68,Low Product Usage,Yes
+1417,682,17,Low,0.17,High Pricing,Yes
+1418,539,41,Medium,0.41,Low Product Usage,No
+1419,703,11,Low,0.11,Competitor Switch,No
+1420,246,76,High,0.76,Low Product Usage,No
+1421,905,96,High,0.96,Competitor Switch,No
+1422,117,68,Medium,0.68,High Pricing,No
+1423,802,28,Low,0.28,Competitor Switch,Yes
+1424,656,29,Low,0.29,Missing Features,No
+1425,751,80,High,0.8,Low Product Usage,No
+1426,310,75,High,0.75,Poor Support,Yes
+1427,306,15,Low,0.15,Missing Features,No
+1428,639,96,High,0.96,Competitor Switch,Yes
+1429,969,30,Low,0.3,Low Product Usage,Yes
+1430,337,12,Low,0.12,Missing Features,No
+1431,350,59,Medium,0.59,Poor Support,No
+1432,820,63,Medium,0.63,Missing Features,No
+1433,938,18,Low,0.18,Competitor Switch,Yes
+1434,113,65,Medium,0.65,Missing Features,No
+1435,651,46,Medium,0.46,Low Product Usage,No
+1436,126,87,High,0.87,Competitor Switch,Yes
+1437,280,91,High,0.91,Competitor Switch,Yes
+1438,995,18,Low,0.18,High Pricing,Yes
+1439,678,71,High,0.71,High Pricing,Yes
+1440,977,4,Low,0.04,High Pricing,No
+1441,870,23,Low,0.23,Missing Features,No
+1442,662,86,High,0.86,Competitor Switch,Yes
+1443,75,51,Medium,0.51,Poor Support,No
+1444,112,11,Low,0.11,Low Product Usage,No
+1445,183,42,Medium,0.42,Missing Features,No
+1446,640,14,Low,0.14,Low Product Usage,Yes
+1447,515,73,High,0.73,Competitor Switch,No
+1448,326,13,Low,0.13,High Pricing,Yes
+1449,824,1,Low,0.01,Low Product Usage,No
+1450,581,66,Medium,0.66,Competitor Switch,Yes
+1451,714,35,Low,0.35,Poor Support,Yes
+1452,608,62,Medium,0.62,Low Product Usage,No
+1453,763,55,Medium,0.55,Low Product Usage,Yes
+1454,702,80,High,0.8,Low Product Usage,Yes
+1455,678,6,Low,0.06,Low Product Usage,Yes
+1456,404,59,Medium,0.59,High Pricing,No
+1457,22,20,Low,0.2,Low Product Usage,Yes
+1458,292,24,Low,0.24,Poor Support,No
+1459,437,27,Low,0.27,Poor Support,No
+1460,226,30,Low,0.3,Competitor Switch,No
+1461,91,48,Medium,0.48,Competitor Switch,No
+1462,771,64,Medium,0.64,Competitor Switch,Yes
+1463,804,33,Low,0.33,Poor Support,No
+1464,99,99,High,0.99,Low Product Usage,No
+1465,335,42,Medium,0.42,High Pricing,Yes
+1466,767,86,High,0.86,High Pricing,Yes
+1467,268,39,Low,0.39,Missing Features,No
+1468,988,77,High,0.77,High Pricing,No
+1469,20,1,Low,0.01,Competitor Switch,No
+1470,426,10,Low,0.1,Poor Support,Yes
+1471,231,53,Medium,0.53,High Pricing,Yes
+1472,208,62,Medium,0.62,Low Product Usage,No
+1473,657,51,Medium,0.51,Competitor Switch,No
+1474,586,86,High,0.86,Low Product Usage,No
+1475,467,20,Low,0.2,High Pricing,No
+1476,566,16,Low,0.16,Poor Support,No
+1477,140,99,High,0.99,Poor Support,No
+1478,950,50,Medium,0.5,Competitor Switch,Yes
+1479,584,95,High,0.95,High Pricing,Yes
+1480,784,20,Low,0.2,Low Product Usage,Yes
+1481,785,50,Medium,0.5,Missing Features,No
+1482,449,92,High,0.92,Poor Support,No
+1483,461,42,Medium,0.42,Missing Features,No
+1484,613,94,High,0.94,Competitor Switch,No
+1485,391,27,Low,0.27,Low Product Usage,Yes
+1486,552,61,Medium,0.61,Missing Features,Yes
+1487,549,96,High,0.96,High Pricing,No
+1488,240,23,Low,0.23,Missing Features,Yes
+1489,185,84,High,0.84,Missing Features,No
+1490,681,60,Medium,0.6,Competitor Switch,No
+1491,842,93,High,0.93,Competitor Switch,Yes
+1492,995,24,Low,0.24,Competitor Switch,Yes
+1493,304,34,Low,0.34,Missing Features,Yes
+1494,262,85,High,0.85,Competitor Switch,Yes
+1495,569,14,Low,0.14,Missing Features,No
+1496,618,23,Low,0.23,Competitor Switch,No
+1497,594,51,Medium,0.51,Low Product Usage,No
+1498,449,29,Low,0.29,Missing Features,Yes
+1499,799,75,High,0.75,Low Product Usage,Yes
+1500,482,81,High,0.81,Missing Features,No
+1501,531,51,Medium,0.51,Competitor Switch,Yes
+1502,268,3,Low,0.03,High Pricing,No
+1503,818,26,Low,0.26,Competitor Switch,Yes
+1504,557,92,High,0.92,High Pricing,Yes
+1505,98,46,Medium,0.46,High Pricing,No
+1506,527,34,Low,0.34,High Pricing,No
+1507,270,66,Medium,0.66,Competitor Switch,Yes
+1508,467,39,Low,0.39,Missing Features,Yes
+1509,431,12,Low,0.12,Poor Support,No
+1510,295,98,High,0.98,Poor Support,No
+1511,441,96,High,0.96,Poor Support,No
+1512,1,47,Medium,0.47,Poor Support,No
+1513,477,81,High,0.81,Poor Support,No
+1514,710,75,High,0.75,Missing Features,No
+1515,38,57,Medium,0.57,Competitor Switch,No
+1516,215,90,High,0.9,High Pricing,No
+1517,948,47,Medium,0.47,Low Product Usage,Yes
+1518,297,61,Medium,0.61,High Pricing,Yes
+1519,773,89,High,0.89,Missing Features,No
+1520,572,78,High,0.78,Missing Features,Yes
+1521,933,42,Medium,0.42,Low Product Usage,Yes
+1522,286,62,Medium,0.62,High Pricing,Yes
+1523,450,85,High,0.85,Poor Support,Yes
+1524,878,28,Low,0.28,High Pricing,Yes
+1525,45,17,Low,0.17,Competitor Switch,Yes
+1526,227,61,Medium,0.61,Low Product Usage,No
+1527,996,3,Low,0.03,Poor Support,Yes
+1528,795,32,Low,0.32,Competitor Switch,No
+1529,615,10,Low,0.1,Low Product Usage,No
+1530,396,62,Medium,0.62,High Pricing,Yes
+1531,428,95,High,0.95,Missing Features,Yes
+1532,942,68,Medium,0.68,Low Product Usage,Yes
+1533,635,90,High,0.9,Low Product Usage,Yes
+1534,971,93,High,0.93,Missing Features,No
+1535,251,53,Medium,0.53,High Pricing,No
+1536,303,56,Medium,0.56,Low Product Usage,No
+1537,116,72,High,0.72,Missing Features,Yes
+1538,361,20,Low,0.2,Poor Support,No
+1539,234,47,Medium,0.47,Poor Support,No
+1540,813,72,High,0.72,Competitor Switch,Yes
+1541,379,56,Medium,0.56,Poor Support,Yes
+1542,581,86,High,0.86,Poor Support,Yes
+1543,572,71,High,0.71,Poor Support,Yes
+1544,451,31,Low,0.31,Low Product Usage,Yes
+1545,144,70,High,0.7,Competitor Switch,No
+1546,561,14,Low,0.14,Low Product Usage,Yes
+1547,203,45,Medium,0.45,Missing Features,No
+1548,793,39,Low,0.39,Competitor Switch,Yes
+1549,272,53,Medium,0.53,Missing Features,No
+1550,775,95,High,0.95,Competitor Switch,No
+1551,2,53,Medium,0.53,Low Product Usage,No
+1552,737,42,Medium,0.42,High Pricing,No
+1553,463,88,High,0.88,Poor Support,Yes
+1554,452,14,Low,0.14,High Pricing,Yes
+1555,919,71,High,0.71,Low Product Usage,Yes
+1556,207,68,Medium,0.68,Missing Features,Yes
+1557,193,70,High,0.7,Competitor Switch,No
+1558,814,52,Medium,0.52,Low Product Usage,No
+1559,591,97,High,0.97,High Pricing,No
+1560,773,70,High,0.7,High Pricing,Yes
+1561,859,41,Medium,0.41,Missing Features,Yes
+1562,627,14,Low,0.14,High Pricing,No
+1563,991,63,Medium,0.63,Missing Features,No
+1564,726,34,Low,0.34,Low Product Usage,No
+1565,988,56,Medium,0.56,High Pricing,Yes
+1566,864,58,Medium,0.58,Missing Features,No
+1567,838,49,Medium,0.49,Poor Support,No
+1568,230,82,High,0.82,Low Product Usage,No
+1569,308,98,High,0.98,Low Product Usage,Yes
+1570,246,29,Low,0.29,Poor Support,No
+1571,517,57,Medium,0.57,Competitor Switch,No
+1572,145,96,High,0.96,Missing Features,No
+1573,732,30,Low,0.3,Poor Support,No
+1574,613,74,High,0.74,Poor Support,Yes
+1575,785,89,High,0.89,Competitor Switch,Yes
+1576,925,65,Medium,0.65,High Pricing,Yes
+1577,408,45,Medium,0.45,High Pricing,Yes
+1578,391,28,Low,0.28,Competitor Switch,No
+1579,109,27,Low,0.27,Missing Features,No
+1580,621,32,Low,0.32,Low Product Usage,No
+1581,227,7,Low,0.07,Low Product Usage,Yes
+1582,122,15,Low,0.15,Missing Features,No
+1583,571,2,Low,0.02,Low Product Usage,Yes
+1584,50,33,Low,0.33,Competitor Switch,Yes
+1585,915,97,High,0.97,Competitor Switch,Yes
+1586,366,80,High,0.8,Competitor Switch,No
+1587,246,21,Low,0.21,Missing Features,Yes
+1588,744,35,Low,0.35,Low Product Usage,No
+1589,137,58,Medium,0.58,Poor Support,No
+1590,913,49,Medium,0.49,High Pricing,No
+1591,43,75,High,0.75,High Pricing,Yes
+1592,436,57,Medium,0.57,Low Product Usage,No
+1593,788,93,High,0.93,Poor Support,No
+1594,752,56,Medium,0.56,Low Product Usage,Yes
+1595,226,79,High,0.79,Competitor Switch,No
+1596,708,68,Medium,0.68,Competitor Switch,No
+1597,964,65,Medium,0.65,Missing Features,No
+1598,795,84,High,0.84,Low Product Usage,No
+1599,9,15,Low,0.15,Poor Support,Yes
+1600,856,81,High,0.81,Missing Features,No
+1601,550,34,Low,0.34,Low Product Usage,No
+1602,309,9,Low,0.09,Competitor Switch,Yes
+1603,182,73,High,0.73,Low Product Usage,Yes
+1604,115,44,Medium,0.44,Competitor Switch,No
+1605,412,62,Medium,0.62,Competitor Switch,No
+1606,822,36,Low,0.36,Poor Support,No
+1607,685,82,High,0.82,Poor Support,Yes
+1608,818,19,Low,0.19,Poor Support,No
+1609,122,66,Medium,0.66,Competitor Switch,No
+1610,408,48,Medium,0.48,Competitor Switch,Yes
+1611,761,80,High,0.8,High Pricing,No
+1612,532,43,Medium,0.43,Low Product Usage,No
+1613,823,76,High,0.76,Missing Features,Yes
+1614,798,17,Low,0.17,Poor Support,Yes
+1615,674,82,High,0.82,High Pricing,Yes
+1616,160,42,Medium,0.42,Missing Features,Yes
+1617,205,41,Medium,0.41,Low Product Usage,No
+1618,204,95,High,0.95,High Pricing,No
+1619,781,30,Low,0.3,Competitor Switch,No
+1620,596,71,High,0.71,Low Product Usage,No
+1621,320,5,Low,0.05,Low Product Usage,Yes
+1622,223,74,High,0.74,Poor Support,No
+1623,283,39,Low,0.39,Poor Support,No
+1624,513,53,Medium,0.53,Poor Support,No
+1625,5,14,Low,0.14,Poor Support,Yes
+1626,475,79,High,0.79,Poor Support,Yes
+1627,204,8,Low,0.08,Competitor Switch,No
+1628,71,31,Low,0.31,Poor Support,No
+1629,983,25,Low,0.25,Low Product Usage,No
+1630,747,41,Medium,0.41,Missing Features,Yes
+1631,196,74,High,0.74,Competitor Switch,Yes
+1632,834,65,Medium,0.65,Poor Support,Yes
+1633,382,77,High,0.77,Competitor Switch,Yes
+1634,125,68,Medium,0.68,Competitor Switch,No
+1635,545,98,High,0.98,Low Product Usage,No
+1636,773,65,Medium,0.65,Missing Features,Yes
+1637,190,100,High,1.0,Competitor Switch,Yes
+1638,905,60,Medium,0.6,Competitor Switch,Yes
+1639,288,7,Low,0.07,Missing Features,No
+1640,783,59,Medium,0.59,Poor Support,Yes
+1641,994,56,Medium,0.56,Competitor Switch,No
+1642,402,4,Low,0.04,Missing Features,No
+1643,709,85,High,0.85,Missing Features,No
+1644,330,65,Medium,0.65,Low Product Usage,No
+1645,985,2,Low,0.02,High Pricing,No
+1646,722,36,Low,0.36,Low Product Usage,Yes
+1647,450,57,Medium,0.57,Poor Support,No
+1648,680,21,Low,0.21,Missing Features,Yes
+1649,931,88,High,0.88,High Pricing,Yes
+1650,220,57,Medium,0.57,Missing Features,Yes
+1651,917,91,High,0.91,Poor Support,Yes
+1652,985,52,Medium,0.52,Low Product Usage,Yes
+1653,935,58,Medium,0.58,Missing Features,Yes
+1654,936,45,Medium,0.45,Low Product Usage,No
+1655,456,31,Low,0.31,High Pricing,No
+1656,109,80,High,0.8,Low Product Usage,Yes
+1657,31,95,High,0.95,Low Product Usage,No
+1658,106,64,Medium,0.64,High Pricing,Yes
+1659,144,59,Medium,0.59,Competitor Switch,No
+1660,829,27,Low,0.27,Missing Features,No
+1661,745,22,Low,0.22,Low Product Usage,No
+1662,801,71,High,0.71,High Pricing,No
+1663,305,86,High,0.86,High Pricing,No
+1664,869,1,Low,0.01,Competitor Switch,No
+1665,513,92,High,0.92,Low Product Usage,Yes
+1666,390,89,High,0.89,Missing Features,Yes
+1667,341,47,Medium,0.47,Poor Support,No
+1668,613,44,Medium,0.44,Missing Features,No
+1669,801,19,Low,0.19,Competitor Switch,Yes
+1670,747,80,High,0.8,Low Product Usage,Yes
+1671,659,99,High,0.99,Competitor Switch,Yes
+1672,965,45,Medium,0.45,High Pricing,Yes
+1673,811,6,Low,0.06,Competitor Switch,No
+1674,564,58,Medium,0.58,Poor Support,Yes
+1675,844,100,High,1.0,Poor Support,Yes
+1676,960,41,Medium,0.41,Competitor Switch,Yes
+1677,112,71,High,0.71,Competitor Switch,Yes
+1678,699,24,Low,0.24,Competitor Switch,No
+1679,669,29,Low,0.29,Competitor Switch,Yes
+1680,665,15,Low,0.15,Low Product Usage,Yes
+1681,104,40,Medium,0.4,High Pricing,Yes
+1682,441,61,Medium,0.61,High Pricing,No
+1683,839,31,Low,0.31,High Pricing,No
+1684,911,89,High,0.89,Poor Support,Yes
+1685,139,68,Medium,0.68,Low Product Usage,Yes
+1686,904,5,Low,0.05,Competitor Switch,No
+1687,14,88,High,0.88,Missing Features,Yes
+1688,142,55,Medium,0.55,Missing Features,Yes
+1689,661,55,Medium,0.55,Competitor Switch,Yes
+1690,666,26,Low,0.26,Missing Features,No
+1691,502,55,Medium,0.55,Low Product Usage,No
+1692,482,6,Low,0.06,Competitor Switch,No
+1693,118,62,Medium,0.62,Low Product Usage,No
+1694,914,73,High,0.73,Low Product Usage,No
+1695,608,32,Low,0.32,Low Product Usage,No
+1696,478,13,Low,0.13,High Pricing,No
+1697,202,96,High,0.96,Competitor Switch,No
+1698,222,85,High,0.85,Poor Support,No
+1699,319,2,Low,0.02,Low Product Usage,Yes
+1700,902,23,Low,0.23,Low Product Usage,Yes
+1701,645,4,Low,0.04,Missing Features,No
+1702,339,42,Medium,0.42,Missing Features,No
+1703,551,20,Low,0.2,Poor Support,No
+1704,64,63,Medium,0.63,Missing Features,No
+1705,726,97,High,0.97,Low Product Usage,No
+1706,939,81,High,0.81,Poor Support,Yes
+1707,695,68,Medium,0.68,High Pricing,Yes
+1708,258,37,Low,0.37,High Pricing,Yes
+1709,972,37,Low,0.37,High Pricing,No
+1710,606,8,Low,0.08,Competitor Switch,No
+1711,279,75,High,0.75,Poor Support,Yes
+1712,468,52,Medium,0.52,Competitor Switch,Yes
+1713,200,67,Medium,0.67,High Pricing,No
+1714,892,99,High,0.99,High Pricing,Yes
+1715,576,44,Medium,0.44,Low Product Usage,No
+1716,273,56,Medium,0.56,High Pricing,Yes
+1717,136,83,High,0.83,Low Product Usage,Yes
+1718,171,91,High,0.91,Low Product Usage,No
+1719,988,85,High,0.85,Low Product Usage,Yes
+1720,331,6,Low,0.06,High Pricing,No
+1721,852,43,Medium,0.43,Missing Features,No
+1722,188,5,Low,0.05,Missing Features,Yes
+1723,988,17,Low,0.17,Competitor Switch,Yes
+1724,266,52,Medium,0.52,Missing Features,Yes
+1725,398,84,High,0.84,Competitor Switch,No
+1726,395,78,High,0.78,Low Product Usage,Yes
+1727,196,43,Medium,0.43,Competitor Switch,No
+1728,844,95,High,0.95,Missing Features,Yes
+1729,918,87,High,0.87,Poor Support,No
+1730,933,28,Low,0.28,Missing Features,Yes
+1731,980,52,Medium,0.52,Low Product Usage,No
+1732,18,18,Low,0.18,Poor Support,No
+1733,746,47,Medium,0.47,Low Product Usage,Yes
+1734,622,63,Medium,0.63,High Pricing,Yes
+1735,247,31,Low,0.31,Low Product Usage,Yes
+1736,77,98,High,0.98,Low Product Usage,Yes
+1737,668,34,Low,0.34,Low Product Usage,No
+1738,93,52,Medium,0.52,Poor Support,Yes
+1739,727,99,High,0.99,High Pricing,Yes
+1740,96,34,Low,0.34,Low Product Usage,Yes
+1741,720,76,High,0.76,Missing Features,Yes
+1742,357,35,Low,0.35,Missing Features,No
+1743,615,64,Medium,0.64,Poor Support,No
+1744,176,14,Low,0.14,Low Product Usage,Yes
+1745,449,88,High,0.88,Missing Features,No
+1746,955,15,Low,0.15,Competitor Switch,Yes
+1747,533,73,High,0.73,Missing Features,No
+1748,839,27,Low,0.27,High Pricing,No
+1749,763,2,Low,0.02,Missing Features,Yes
+1750,602,51,Medium,0.51,Competitor Switch,Yes
+1751,839,29,Low,0.29,High Pricing,Yes
+1752,661,81,High,0.81,Missing Features,No
+1753,316,49,Medium,0.49,Missing Features,Yes
+1754,80,87,High,0.87,Poor Support,Yes
+1755,274,47,Medium,0.47,High Pricing,Yes
+1756,472,49,Medium,0.49,Low Product Usage,No
+1757,401,34,Low,0.34,Competitor Switch,No
+1758,878,20,Low,0.2,Low Product Usage,No
+1759,822,30,Low,0.3,High Pricing,Yes
+1760,884,45,Medium,0.45,Poor Support,No
+1761,296,14,Low,0.14,Poor Support,No
+1762,394,52,Medium,0.52,Missing Features,No
+1763,451,51,Medium,0.51,Poor Support,Yes
+1764,396,97,High,0.97,Missing Features,No
+1765,401,64,Medium,0.64,Missing Features,No
+1766,162,63,Medium,0.63,Low Product Usage,No
+1767,633,5,Low,0.05,Missing Features,Yes
+1768,733,81,High,0.81,Missing Features,No
+1769,629,16,Low,0.16,Competitor Switch,Yes
+1770,309,84,High,0.84,Poor Support,Yes
+1771,991,98,High,0.98,Low Product Usage,No
+1772,187,13,Low,0.13,Competitor Switch,Yes
+1773,132,36,Low,0.36,Poor Support,No
+1774,579,11,Low,0.11,Low Product Usage,No
+1775,277,58,Medium,0.58,High Pricing,No
+1776,63,43,Medium,0.43,High Pricing,No
+1777,121,34,Low,0.34,High Pricing,No
+1778,782,24,Low,0.24,Competitor Switch,No
+1779,564,37,Low,0.37,Low Product Usage,Yes
+1780,244,77,High,0.77,Competitor Switch,No
+1781,783,94,High,0.94,Low Product Usage,No
+1782,308,12,Low,0.12,Missing Features,Yes
+1783,232,29,Low,0.29,Competitor Switch,Yes
+1784,891,33,Low,0.33,Missing Features,No
+1785,68,55,Medium,0.55,Poor Support,Yes
+1786,656,78,High,0.78,Poor Support,Yes
+1787,440,57,Medium,0.57,Poor Support,No
+1788,408,42,Medium,0.42,Poor Support,No
+1789,431,23,Low,0.23,Competitor Switch,No
+1790,83,1,Low,0.01,Competitor Switch,No
+1791,330,85,High,0.85,High Pricing,No
+1792,680,56,Medium,0.56,Low Product Usage,No
+1793,253,1,Low,0.01,Poor Support,No
+1794,909,89,High,0.89,High Pricing,Yes
+1795,716,46,Medium,0.46,Poor Support,No
+1796,829,20,Low,0.2,Low Product Usage,No
+1797,812,44,Medium,0.44,Competitor Switch,Yes
+1798,123,72,High,0.72,Poor Support,Yes
+1799,800,56,Medium,0.56,Poor Support,Yes
+1800,700,27,Low,0.27,Missing Features,No
+1801,814,16,Low,0.16,Low Product Usage,No
+1802,343,10,Low,0.1,High Pricing,No
+1803,394,35,Low,0.35,Poor Support,No
+1804,297,99,High,0.99,Poor Support,No
+1805,548,44,Medium,0.44,High Pricing,No
+1806,574,52,Medium,0.52,Missing Features,Yes
+1807,131,66,Medium,0.66,Low Product Usage,Yes
+1808,882,90,High,0.9,High Pricing,No
+1809,505,21,Low,0.21,Competitor Switch,Yes
+1810,491,20,Low,0.2,Competitor Switch,Yes
+1811,299,27,Low,0.27,Low Product Usage,Yes
+1812,279,89,High,0.89,Poor Support,Yes
+1813,936,63,Medium,0.63,Missing Features,Yes
+1814,750,94,High,0.94,Poor Support,Yes
+1815,158,53,Medium,0.53,Competitor Switch,Yes
+1816,327,58,Medium,0.58,Poor Support,Yes
+1817,423,20,Low,0.2,Competitor Switch,Yes
+1818,213,58,Medium,0.58,Competitor Switch,No
+1819,630,57,Medium,0.57,Low Product Usage,No
+1820,904,79,High,0.79,Low Product Usage,Yes
+1821,446,75,High,0.75,Low Product Usage,No
+1822,86,69,Medium,0.69,Competitor Switch,No
+1823,223,97,High,0.97,Low Product Usage,Yes
+1824,417,74,High,0.74,Low Product Usage,No
+1825,591,78,High,0.78,Missing Features,Yes
+1826,881,10,Low,0.1,Poor Support,No
+1827,597,63,Medium,0.63,Low Product Usage,No
+1828,200,21,Low,0.21,Competitor Switch,No
+1829,185,65,Medium,0.65,Low Product Usage,Yes
+1830,380,88,High,0.88,Low Product Usage,Yes
+1831,371,52,Medium,0.52,Competitor Switch,No
+1832,227,83,High,0.83,Missing Features,Yes
+1833,886,98,High,0.98,Poor Support,Yes
+1834,54,25,Low,0.25,High Pricing,No
+1835,868,16,Low,0.16,Poor Support,Yes
+1836,117,62,Medium,0.62,Competitor Switch,Yes
+1837,755,44,Medium,0.44,Poor Support,No
+1838,147,6,Low,0.06,Poor Support,Yes
+1839,134,25,Low,0.25,Poor Support,Yes
+1840,502,84,High,0.84,Low Product Usage,Yes
+1841,962,66,Medium,0.66,High Pricing,Yes
+1842,252,51,Medium,0.51,Competitor Switch,No
+1843,956,70,High,0.7,High Pricing,Yes
+1844,494,32,Low,0.32,Competitor Switch,Yes
+1845,949,69,Medium,0.69,High Pricing,Yes
+1846,157,77,High,0.77,Poor Support,No
+1847,575,25,Low,0.25,High Pricing,Yes
+1848,827,46,Medium,0.46,Low Product Usage,Yes
+1849,59,73,High,0.73,Competitor Switch,Yes
+1850,975,47,Medium,0.47,Competitor Switch,Yes
+1851,719,34,Low,0.34,High Pricing,No
+1852,592,75,High,0.75,High Pricing,Yes
+1853,832,87,High,0.87,Competitor Switch,No
+1854,118,2,Low,0.02,Missing Features,No
+1855,390,24,Low,0.24,Poor Support,No
+1856,173,46,Medium,0.46,High Pricing,No
+1857,182,51,Medium,0.51,High Pricing,Yes
+1858,314,53,Medium,0.53,Poor Support,Yes
+1859,988,40,Medium,0.4,Competitor Switch,Yes
+1860,288,19,Low,0.19,Low Product Usage,Yes
+1861,586,82,High,0.82,Missing Features,Yes
+1862,621,55,Medium,0.55,High Pricing,Yes
+1863,283,44,Medium,0.44,High Pricing,No
+1864,802,17,Low,0.17,High Pricing,Yes
+1865,55,68,Medium,0.68,Low Product Usage,Yes
+1866,677,10,Low,0.1,Low Product Usage,No
+1867,871,79,High,0.79,Missing Features,No
+1868,295,84,High,0.84,High Pricing,No
+1869,253,18,Low,0.18,Missing Features,Yes
+1870,916,5,Low,0.05,Missing Features,No
+1871,684,83,High,0.83,Low Product Usage,Yes
+1872,775,55,Medium,0.55,Missing Features,No
+1873,457,54,Medium,0.54,Low Product Usage,Yes
+1874,883,69,Medium,0.69,Poor Support,No
+1875,902,71,High,0.71,High Pricing,No
+1876,518,72,High,0.72,Poor Support,Yes
+1877,564,38,Low,0.38,High Pricing,No
+1878,814,29,Low,0.29,Competitor Switch,Yes
+1879,846,7,Low,0.07,Missing Features,No
+1880,8,11,Low,0.11,Low Product Usage,Yes
+1881,98,75,High,0.75,High Pricing,Yes
+1882,180,80,High,0.8,High Pricing,Yes
+1883,879,4,Low,0.04,High Pricing,No
+1884,621,95,High,0.95,Competitor Switch,Yes
+1885,950,51,Medium,0.51,High Pricing,No
+1886,968,1,Low,0.01,Poor Support,No
+1887,64,64,Medium,0.64,Low Product Usage,No
+1888,136,84,High,0.84,Competitor Switch,Yes
+1889,468,9,Low,0.09,Poor Support,Yes
+1890,438,60,Medium,0.6,Poor Support,Yes
+1891,306,43,Medium,0.43,Poor Support,Yes
+1892,988,77,High,0.77,Poor Support,Yes
+1893,416,18,Low,0.18,Missing Features,No
+1894,930,86,High,0.86,Poor Support,No
+1895,498,33,Low,0.33,High Pricing,Yes
+1896,212,38,Low,0.38,Missing Features,Yes
+1897,998,71,High,0.71,Low Product Usage,No
+1898,264,99,High,0.99,Low Product Usage,No
+1899,150,31,Low,0.31,High Pricing,No
+1900,305,40,Medium,0.4,Low Product Usage,No
+1901,217,59,Medium,0.59,Missing Features,Yes
+1902,967,8,Low,0.08,Competitor Switch,Yes
+1903,791,95,High,0.95,Low Product Usage,No
+1904,438,28,Low,0.28,Competitor Switch,No
+1905,251,77,High,0.77,Missing Features,Yes
+1906,120,62,Medium,0.62,Low Product Usage,No
+1907,309,82,High,0.82,Low Product Usage,Yes
+1908,572,36,Low,0.36,Low Product Usage,Yes
+1909,47,70,High,0.7,Competitor Switch,No
+1910,333,5,Low,0.05,High Pricing,No
+1911,417,96,High,0.96,Competitor Switch,Yes
+1912,457,79,High,0.79,Missing Features,Yes
+1913,68,94,High,0.94,Poor Support,Yes
+1914,352,57,Medium,0.57,Poor Support,Yes
+1915,282,81,High,0.81,High Pricing,Yes
+1916,184,99,High,0.99,Low Product Usage,Yes
+1917,118,37,Low,0.37,Poor Support,Yes
+1918,769,31,Low,0.31,High Pricing,No
+1919,119,87,High,0.87,Competitor Switch,No
+1920,364,34,Low,0.34,High Pricing,Yes
+1921,832,7,Low,0.07,High Pricing,No
+1922,509,52,Medium,0.52,High Pricing,Yes
+1923,217,80,High,0.8,Poor Support,Yes
+1924,561,42,Medium,0.42,Poor Support,Yes
+1925,527,56,Medium,0.56,Poor Support,Yes
+1926,3,50,Medium,0.5,High Pricing,Yes
+1927,891,10,Low,0.1,Competitor Switch,No
+1928,197,17,Low,0.17,Competitor Switch,No
+1929,148,30,Low,0.3,Poor Support,Yes
+1930,932,49,Medium,0.49,High Pricing,No
+1931,661,7,Low,0.07,Missing Features,Yes
+1932,415,25,Low,0.25,High Pricing,Yes
+1933,987,9,Low,0.09,Competitor Switch,Yes
+1934,18,89,High,0.89,Competitor Switch,Yes
+1935,376,78,High,0.78,Missing Features,No
+1936,376,41,Medium,0.41,Competitor Switch,No
+1937,32,6,Low,0.06,Low Product Usage,Yes
+1938,838,78,High,0.78,Missing Features,No
+1939,51,4,Low,0.04,Missing Features,Yes
+1940,500,77,High,0.77,High Pricing,Yes
+1941,696,97,High,0.97,Low Product Usage,No
+1942,414,99,High,0.99,Competitor Switch,Yes
+1943,529,82,High,0.82,Low Product Usage,Yes
+1944,876,54,Medium,0.54,Poor Support,No
+1945,677,77,High,0.77,Low Product Usage,Yes
+1946,238,61,Medium,0.61,Competitor Switch,Yes
+1947,903,47,Medium,0.47,Poor Support,No
+1948,117,15,Low,0.15,Poor Support,Yes
+1949,540,20,Low,0.2,Poor Support,No
+1950,331,62,Medium,0.62,High Pricing,Yes
+1951,466,51,Medium,0.51,Competitor Switch,No
+1952,997,96,High,0.96,Competitor Switch,Yes
+1953,563,22,Low,0.22,Low Product Usage,Yes
+1954,984,25,Low,0.25,Low Product Usage,No
+1955,292,57,Medium,0.57,Competitor Switch,No
+1956,57,11,Low,0.11,Low Product Usage,Yes
+1957,286,48,Medium,0.48,Competitor Switch,Yes
+1958,135,64,Medium,0.64,Low Product Usage,Yes
+1959,672,20,Low,0.2,Poor Support,No
+1960,305,88,High,0.88,Missing Features,No
+1961,247,89,High,0.89,Low Product Usage,Yes
+1962,912,51,Medium,0.51,High Pricing,No
+1963,513,68,Medium,0.68,Competitor Switch,Yes
+1964,656,52,Medium,0.52,Missing Features,Yes
+1965,636,13,Low,0.13,Competitor Switch,Yes
+1966,39,41,Medium,0.41,High Pricing,Yes
+1967,905,9,Low,0.09,Low Product Usage,Yes
+1968,265,93,High,0.93,Low Product Usage,Yes
+1969,875,21,Low,0.21,Low Product Usage,No
+1970,618,47,Medium,0.47,Low Product Usage,No
+1971,17,57,Medium,0.57,Poor Support,Yes
+1972,403,87,High,0.87,Poor Support,No
+1973,87,10,Low,0.1,Competitor Switch,No
+1974,453,12,Low,0.12,Missing Features,Yes
+1975,887,88,High,0.88,Competitor Switch,No
+1976,110,77,High,0.77,Low Product Usage,No
+1977,197,41,Medium,0.41,High Pricing,No
+1978,410,61,Medium,0.61,High Pricing,Yes
+1979,380,33,Low,0.33,High Pricing,Yes
+1980,805,84,High,0.84,High Pricing,No
+1981,610,52,Medium,0.52,High Pricing,No
+1982,893,4,Low,0.04,Competitor Switch,Yes
+1983,5,27,Low,0.27,High Pricing,Yes
+1984,505,14,Low,0.14,Poor Support,No
+1985,859,28,Low,0.28,Missing Features,Yes
+1986,1,12,Low,0.12,Missing Features,Yes
+1987,656,59,Medium,0.59,Poor Support,Yes
+1988,226,32,Low,0.32,Low Product Usage,No
+1989,840,76,High,0.76,Competitor Switch,No
+1990,399,55,Medium,0.55,Low Product Usage,Yes
+1991,214,4,Low,0.04,High Pricing,Yes
+1992,522,86,High,0.86,Low Product Usage,No
+1993,500,17,Low,0.17,Competitor Switch,Yes
+1994,794,91,High,0.91,Competitor Switch,Yes
+1995,678,38,Low,0.38,High Pricing,Yes
+1996,948,54,Medium,0.54,Low Product Usage,Yes
+1997,185,35,Low,0.35,Poor Support,No
+1998,279,85,High,0.85,High Pricing,Yes
+1999,724,33,Low,0.33,Competitor Switch,No
+2000,570,38,Low,0.38,Competitor Switch,No
